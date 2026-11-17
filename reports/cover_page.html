@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DiabForecast — Cover Page</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Times+New+Roman&family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'EB Garamond', 'Times New Roman', Times, serif;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+    }
+
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      padding: 30mm 25mm 25mm 25mm;
+      text-align: center;
+    }
+
+    /* ── University name ── */
+    .university {
+      font-size: 18pt;
+      font-weight: 700;
+      font-family: Arial, sans-serif;
+      letter-spacing: 0.02em;
+      margin-bottom: 18px;
+    }
+
+    /* ── Logo ── */
+    .logo-wrapper {
+      margin: 0 auto 22px;
+    }
+
+    .logo-wrapper svg {
+      width: 130px;
+      height: 130px;
+    }
+
+    /* ── Course ── */
+    .course {
+      font-size: 13pt;
+      font-style: italic;
+      margin-bottom: 28px;
+      letter-spacing: 0.01em;
+    }
+
+    /* ── Main title ── */
+    .title {
+      font-size: 22pt;
+      font-weight: 700;
+      line-height: 1.35;
+      margin-bottom: 20px;
+    }
+
+    /* ── Subtitle ── */
+    .subtitle {
+      font-size: 11.5pt;
+      font-style: italic;
+      line-height: 1.5;
+      max-width: 85%;
+      margin: 0 auto 50px;
+    }
+
+    /* ── Submitted by ── */
+    .submitted-section {
+      margin-bottom: 36px;
+    }
+
+    .submitted-section .label {
+      font-weight: 700;
+      font-size: 12.5pt;
+      margin-bottom: 8px;
+    }
+
+    .submitted-section .member {
+      font-size: 12pt;
+      line-height: 1.8;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    /* ── Guidance ── */
+    .guidance-section {
+      margin-bottom: 40px;
+    }
+
+    .guidance-section .label {
+      font-weight: 700;
+      font-size: 12.5pt;
+      margin-bottom: 6px;
+    }
+
+    .guidance-section .guide-name {
+      font-size: 12pt;
+    }
+
+    /* ── Year ── */
+    .year {
+      font-size: 12pt;
+      font-weight: 400;
+    }
+
+    /* ── Print ── */
+    @media print {
+      body { background: #fff; }
+      .page { margin: 0; box-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <!-- University -->
+    <div class="university">Netaji Subhas University of Technology (East Campus)</div>
+
+    <!-- NSUT Logo (SVG recreation) -->
+    <div class="logo-wrapper">
+      <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <!-- Outer circle -->
+        <circle cx="100" cy="100" r="95" fill="none" stroke="#c0392b" stroke-width="3"/>
+        <!-- Inner circle -->
+        <circle cx="100" cy="100" r="70" fill="none" stroke="#c0392b" stroke-width="2"/>
+        <!-- Atom orbits -->
+        <ellipse cx="100" cy="100" rx="90" ry="35" fill="none" stroke="#c0392b" stroke-width="2"/>
+        <ellipse cx="100" cy="100" rx="90" ry="35" fill="none" stroke="#c0392b" stroke-width="2" transform="rotate(60 100 100)"/>
+        <ellipse cx="100" cy="100" rx="90" ry="35" fill="none" stroke="#c0392b" stroke-width="2" transform="rotate(120 100 100)"/>
+        <!-- Center circle -->
+        <circle cx="100" cy="100" r="22" fill="#c0392b"/>
+        <!-- NSUT text in center -->
+        <text x="100" y="106" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="14" fill="white">NSUT</text>
+        <!-- Stars on border -->
+        <text x="100" y="12" text-anchor="middle" font-size="10" fill="#c0392b">★</text>
+        <text x="193" y="104" text-anchor="middle" font-size="10" fill="#c0392b">★</text>
+        <text x="7"   y="104" text-anchor="middle" font-size="10" fill="#c0392b">★</text>
+        <!-- Curved text top -->
+        <path id="top-arc" fill="none" d="M 20,100 A 80,80 0 0,1 180,100"/>
+        <text font-family="Arial" font-size="8.5" fill="#c0392b" letter-spacing="1.2">
+          <textPath href="#top-arc" startOffset="5%">NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY</textPath>
+        </text>
+        <!-- Curved text bottom -->
+        <path id="bot-arc" fill="none" d="M 18,105 A 82,82 0 0,0 182,105"/>
+        <text font-family="Arial" font-size="8.5" fill="#c0392b" letter-spacing="2">
+          <textPath href="#bot-arc" startOffset="18%">DELHI - INDIA</textPath>
+        </text>
+      </svg>
+    </div>
+
+    <!-- Course -->
+    <div class="course">ARTIFICIAL INTELLIGENCE (CBCPC502)</div>
+
+    <!-- Main Title -->
+    <div class="title">
+      Global Diabetes Prevalence Analysis<br>and Forecasting System
+    </div>
+
+    <!-- Subtitle -->
+    <div class="subtitle">
+      A multi-model forecasting study using WHO and Global Burden of Disease 2023 data<br>
+      (1990 to 2030) with an interactive Streamlit dashboard
+    </div>
+
+    <!-- Submitted By -->
+    <div class="submitted-section">
+      <div class="label">Submitted by</div>
+      <div class="member">
+        <span>Dhruv Makkar &nbsp;&nbsp; Roll No. 2024UCB6051</span>
+      </div>
+      <div class="member">
+        <span>Aadi Jain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roll No. 2024UCB6069</span>
+      </div>
+    </div>
+
+    <!-- Guidance -->
+    <div class="guidance-section">
+      <div class="label">Under the guidance of</div>
+      <div class="guide-name">Dr. Prakash Rao</div>
+    </div>
+
+    <!-- Year -->
+    <div class="year">2026-27</div>
+
+  </div>
+</body>
+</html>
