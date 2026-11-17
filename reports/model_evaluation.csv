@@ -1,0 +1,761 @@
+location,model_name,training_end_year,test_start_year,test_end_year,MAE,RMSE,MAPE,WAPE,sMAPE
+Afghanistan,Persistence Baseline,2017,2018,2022,2.27,2.5333,9.38,9.58,9.95
+Afghanistan,Linear Regression,2017,2018,2022,2.1995,2.2706,9.19,9.28,9.66
+Afghanistan,ARIMA,2017,2018,2022,0.0445,0.0499,0.18,0.19,0.18
+Afghanistan,Holt (Damped),2017,2018,2022,0.224,0.2799,0.91,0.95,0.92
+Afghanistan,Random Forest,2017,2018,2022,0.74,0.9047,3.03,3.12,3.1
+Albania,Persistence Baseline,2017,2018,2022,0.942,1.0565,9.13,9.33,9.67
+Albania,Linear Regression,2017,2018,2022,1.1351,1.171,11.14,11.25,11.83
+Albania,ARIMA,2017,2018,2022,0.0731,0.0924,0.7,0.72,0.7
+Albania,Holt (Damped),2017,2018,2022,0.1414,0.176,1.36,1.4,1.37
+Albania,Random Forest,2017,2018,2022,0.422,0.4754,4.09,4.18,4.19
+Algeria,Persistence Baseline,2017,2018,2022,0.742,0.8263,4.05,4.09,4.16
+Algeria,Linear Regression,2017,2018,2022,0.4258,0.426,2.35,2.35,2.38
+Algeria,ARIMA,2017,2018,2022,0.1611,0.1731,0.88,0.89,0.88
+Algeria,Holt (Damped),2017,2018,2022,0.2069,0.2226,1.13,1.14,1.13
+Algeria,Random Forest,2017,2018,2022,0.286,0.3346,1.56,1.58,1.54
+Andorra,Persistence Baseline,2017,2018,2022,0.052,0.0675,0.72,0.72,0.72
+Andorra,Linear Regression,2017,2018,2022,0.6555,0.6575,9.09,9.09,8.69
+Andorra,ARIMA,2017,2018,2022,0.0145,0.0201,0.2,0.2,0.2
+Andorra,Holt (Damped),2017,2018,2022,0.052,0.0675,0.72,0.72,0.72
+Andorra,Random Forest,2017,2018,2022,0.264,0.2967,3.65,3.66,3.57
+Angola,Persistence Baseline,2017,2018,2022,0.938,1.051,5.24,5.31,5.42
+Angola,Linear Regression,2017,2018,2022,0.142,0.1725,0.79,0.8,0.79
+Angola,ARIMA,2017,2018,2022,0.1012,0.1298,0.56,0.57,0.56
+Angola,Holt (Damped),2017,2018,2022,0.1061,0.1365,0.59,0.6,0.59
+Angola,Random Forest,2017,2018,2022,0.074,0.0845,0.42,0.42,0.42
+Antigua and Barbuda,Persistence Baseline,2017,2018,2022,0.994,1.1074,5.0,5.06,5.16
+Antigua and Barbuda,Linear Regression,2017,2018,2022,0.1675,0.1757,0.85,0.85,0.84
+Antigua and Barbuda,ARIMA,2017,2018,2022,0.1749,0.2174,0.87,0.89,0.88
+Antigua and Barbuda,Holt (Damped),2017,2018,2022,0.0748,0.0952,0.37,0.38,0.37
+Antigua and Barbuda,Random Forest,2017,2018,2022,0.074,0.0911,0.37,0.38,0.37
+Argentina,Persistence Baseline,2017,2018,2022,0.376,0.4251,3.62,3.66,3.7
+Argentina,Linear Regression,2017,2018,2022,0.1838,0.1842,1.79,1.79,1.77
+Argentina,ARIMA,2017,2018,2022,0.0427,0.0598,0.41,0.42,0.41
+Argentina,Holt (Damped),2017,2018,2022,0.0526,0.0727,0.5,0.51,0.51
+Argentina,Random Forest,2017,2018,2022,0.364,0.4137,3.5,3.54,3.43
+Armenia,Persistence Baseline,2017,2018,2022,0.68,0.7692,5.97,6.07,6.21
+Armenia,Linear Regression,2017,2018,2022,0.2422,0.304,2.11,2.16,2.15
+Armenia,ARIMA,2017,2018,2022,0.0652,0.0845,0.57,0.58,0.57
+Armenia,Holt (Damped),2017,2018,2022,0.1554,0.1945,1.36,1.39,1.37
+Armenia,Random Forest,2017,2018,2022,0.098,0.1084,0.88,0.88,0.88
+Austria,Persistence Baseline,2017,2018,2022,0.092,0.1108,1.8,1.81,1.82
+Austria,Linear Regression,2017,2018,2022,0.3857,0.3859,7.59,7.59,7.31
+Austria,ARIMA,2017,2018,2022,0.0325,0.0429,0.63,0.64,0.64
+Austria,Holt (Damped),2017,2018,2022,0.0692,0.0868,1.35,1.36,1.36
+Austria,Random Forest,2017,2018,2022,0.076,0.0856,1.5,1.5,1.49
+Azerbaijan,Persistence Baseline,2017,2018,2022,0.824,0.9289,6.27,6.37,6.52
+Azerbaijan,Linear Regression,2017,2018,2022,0.367,0.4152,2.79,2.84,2.84
+Azerbaijan,ARIMA,2017,2018,2022,0.1137,0.1462,0.86,0.88,0.86
+Azerbaijan,Holt (Damped),2017,2018,2022,0.142,0.18,1.07,1.1,1.08
+Azerbaijan,Random Forest,2017,2018,2022,0.104,0.1178,0.79,0.8,0.79
+Bahamas,Persistence Baseline,2017,2018,2022,0.708,0.7928,3.82,3.86,3.92
+Bahamas,Linear Regression,2017,2018,2022,0.6763,0.6935,3.67,3.69,3.6
+Bahamas,ARIMA,2017,2018,2022,0.1364,0.18,0.73,0.74,0.74
+Bahamas,Holt (Damped),2017,2018,2022,0.0322,0.0476,0.17,0.18,0.17
+Bahamas,Random Forest,2017,2018,2022,0.45,0.4781,2.44,2.45,2.41
+Bahrain,Persistence Baseline,2017,2018,2022,0.444,0.4958,2.1,2.11,2.12
+Bahrain,Linear Regression,2017,2018,2022,0.6426,0.6764,3.04,3.05,2.99
+Bahrain,ARIMA,2017,2018,2022,0.1427,0.1534,0.67,0.68,0.67
+Bahrain,Holt (Damped),2017,2018,2022,0.1859,0.1986,0.88,0.88,0.87
+Bahrain,Random Forest,2017,2018,2022,1.248,1.3517,5.9,5.92,5.7
+Barbados,Persistence Baseline,2017,2018,2022,0.654,0.7292,2.96,2.99,3.02
+Barbados,Linear Regression,2017,2018,2022,1.0352,1.0617,4.71,4.73,4.6
+Barbados,ARIMA,2017,2018,2022,0.109,0.1437,0.49,0.5,0.49
+Barbados,Holt (Damped),2017,2018,2022,0.0203,0.0262,0.09,0.09,0.09
+Barbados,Random Forest,2017,2018,2022,0.92,0.9746,4.18,4.2,4.09
+Belarus,Persistence Baseline,2017,2018,2022,0.746,0.8401,10.16,10.42,10.84
+Belarus,Linear Regression,2017,2018,2022,0.852,0.8958,11.73,11.91,12.53
+Belarus,ARIMA,2017,2018,2022,0.21,0.2498,2.84,2.93,2.9
+Belarus,Holt (Damped),2017,2018,2022,0.2123,0.2526,2.87,2.97,2.93
+Belarus,Random Forest,2017,2018,2022,0.412,0.4729,5.6,5.76,5.81
+Belgium,Persistence Baseline,2017,2018,2022,0.724,0.8154,11.38,11.71,12.24
+Belgium,Linear Regression,2017,2018,2022,0.9825,1.0199,15.68,15.89,17.09
+Belgium,ARIMA,2017,2018,2022,0.0626,0.0803,0.97,1.01,0.97
+Belgium,Holt (Damped),2017,2018,2022,0.131,0.1635,2.03,2.12,2.06
+Belgium,Random Forest,2017,2018,2022,0.48,0.5364,7.56,7.76,7.92
+Belize,Persistence Baseline,2017,2018,2022,1.13,1.2594,6.13,6.22,6.37
+Belize,Linear Regression,2017,2018,2022,0.3762,0.3818,2.06,2.07,2.08
+Belize,ARIMA,2017,2018,2022,0.1354,0.1687,0.73,0.74,0.73
+Belize,Holt (Damped),2017,2018,2022,0.0922,0.1164,0.5,0.51,0.5
+Belize,Random Forest,2017,2018,2022,0.116,0.1298,0.63,0.64,0.64
+Benin,Persistence Baseline,2017,2018,2022,1.634,1.8317,14.49,14.99,15.89
+Benin,Linear Regression,2017,2018,2022,2.515,2.5891,22.77,23.07,25.8
+Benin,ARIMA,2017,2018,2022,0.015,0.0205,0.13,0.14,0.13
+Benin,Holt (Damped),2017,2018,2022,0.2107,0.2667,1.83,1.93,1.86
+Benin,Random Forest,2017,2018,2022,1.022,1.1509,9.06,9.37,9.59
+Bermuda,Persistence Baseline,2017,2018,2022,1.024,1.1405,5.16,5.22,5.33
+Bermuda,Linear Regression,2017,2018,2022,0.1115,0.1171,0.56,0.57,0.56
+Bermuda,ARIMA,2017,2018,2022,0.062,0.0839,0.31,0.32,0.31
+Bermuda,Holt (Damped),2017,2018,2022,0.0455,0.0646,0.23,0.23,0.23
+Bermuda,Random Forest,2017,2018,2022,0.084,0.1002,0.43,0.43,0.42
+Bolivia (Plurinational State of),Persistence Baseline,2017,2018,2022,1.534,1.7137,9.28,9.48,9.84
+Bolivia (Plurinational State of),Linear Regression,2017,2018,2022,1.4113,1.4549,8.64,8.73,9.05
+Bolivia (Plurinational State of),ARIMA,2017,2018,2022,0.0272,0.0388,0.16,0.17,0.16
+Bolivia (Plurinational State of),Holt (Damped),2017,2018,2022,0.1404,0.1802,0.84,0.87,0.84
+Bolivia (Plurinational State of),Random Forest,2017,2018,2022,0.492,0.5394,2.99,3.04,3.04
+Bosnia and Herzegovina,Persistence Baseline,2017,2018,2022,1.09,1.2217,8.6,8.78,9.08
+Bosnia and Herzegovina,Linear Regression,2017,2018,2022,1.16,1.1959,9.26,9.35,9.73
+Bosnia and Herzegovina,ARIMA,2017,2018,2022,0.0633,0.0824,0.49,0.51,0.49
+Bosnia and Herzegovina,Holt (Damped),2017,2018,2022,0.1411,0.178,1.1,1.14,1.11
+Bosnia and Herzegovina,Random Forest,2017,2018,2022,0.29,0.3322,2.28,2.34,2.32
+Botswana,Persistence Baseline,2017,2018,2022,0.36,0.4112,4.1,4.15,4.21
+Botswana,Linear Regression,2017,2018,2022,0.0921,0.112,1.05,1.06,1.06
+Botswana,ARIMA,2017,2018,2022,0.1246,0.1536,1.41,1.44,1.43
+Botswana,Holt (Damped),2017,2018,2022,0.1414,0.1733,1.61,1.63,1.63
+Botswana,Random Forest,2017,2018,2022,0.27,0.2851,3.1,3.11,3.04
+Brazil,Persistence Baseline,2017,2018,2022,1.124,1.2566,9.08,9.28,9.62
+Brazil,Linear Regression,2017,2018,2022,1.5014,1.5423,12.29,12.39,13.12
+Brazil,ARIMA,2017,2018,2022,0.0364,0.0505,0.29,0.3,0.29
+Brazil,Holt (Damped),2017,2018,2022,0.1158,0.1474,0.92,0.96,0.93
+Brazil,Random Forest,2017,2018,2022,0.398,0.4573,3.21,3.29,3.27
+Bulgaria,Persistence Baseline,2017,2018,2022,0.956,1.0721,9.31,9.52,9.87
+Bulgaria,Linear Regression,2017,2018,2022,1.1723,1.2091,11.55,11.67,12.3
+Bulgaria,ARIMA,2017,2018,2022,0.0807,0.0992,0.78,0.8,0.78
+Bulgaria,Holt (Damped),2017,2018,2022,0.1554,0.1911,1.5,1.55,1.51
+Bulgaria,Random Forest,2017,2018,2022,0.382,0.4398,3.71,3.8,3.8
+Burkina Faso,Persistence Baseline,2017,2018,2022,1.94,2.1816,17.24,17.95,19.25
+Burkina Faso,Linear Regression,2017,2018,2022,2.9372,3.0459,26.71,27.17,31.02
+Burkina Faso,ARIMA,2017,2018,2022,0.0678,0.0851,0.59,0.63,0.59
+Burkina Faso,Holt (Damped),2017,2018,2022,0.3685,0.4534,3.21,3.41,3.29
+Burkina Faso,Random Forest,2017,2018,2022,1.34,1.5255,11.88,12.4,12.82
+Burundi,Persistence Baseline,2017,2018,2022,0.48,0.5436,5.64,5.73,5.85
+Burundi,Linear Regression,2017,2018,2022,0.1439,0.1857,1.68,1.72,1.7
+Burundi,ARIMA,2017,2018,2022,0.0622,0.0785,0.73,0.74,0.73
+Burundi,Holt (Damped),2017,2018,2022,0.1428,0.1758,1.67,1.7,1.69
+Burundi,Random Forest,2017,2018,2022,0.042,0.0436,0.5,0.5,0.5
+Cabo Verde,Persistence Baseline,2017,2018,2022,0.33,0.3597,3.8,3.77,3.71
+Cabo Verde,Linear Regression,2017,2018,2022,1.4698,1.4909,16.85,16.8,15.5
+Cabo Verde,ARIMA,2017,2018,2022,0.052,0.0717,0.6,0.59,0.61
+Cabo Verde,Holt (Damped),2017,2018,2022,0.0299,0.0315,0.34,0.34,0.34
+Cabo Verde,Random Forest,2017,2018,2022,0.914,1.0025,10.53,10.45,9.9
+Cameroon,Persistence Baseline,2017,2018,2022,2.576,2.8811,15.77,16.33,17.42
+Cameroon,Linear Regression,2017,2018,2022,3.9048,4.0046,24.46,24.75,27.96
+Cameroon,ARIMA,2017,2018,2022,0.0676,0.0933,0.4,0.43,0.4
+Cameroon,Holt (Damped),2017,2018,2022,0.2928,0.3687,1.75,1.86,1.78
+Cameroon,Random Forest,2017,2018,2022,1.608,1.7966,9.84,10.19,10.46
+Canada,Persistence Baseline,2017,2018,2022,0.25,0.2839,3.73,3.77,3.82
+Canada,Linear Regression,2017,2018,2022,0.6494,0.6746,9.74,9.79,10.28
+Canada,ARIMA,2017,2018,2022,0.0142,0.0188,0.21,0.21,0.21
+Canada,Holt (Damped),2017,2018,2022,0.0999,0.1225,1.49,1.51,1.5
+Canada,Random Forest,2017,2018,2022,0.032,0.0329,0.48,0.48,0.48
+Central African Republic,Persistence Baseline,2017,2018,2022,0.622,0.7035,3.34,3.37,3.41
+Central African Republic,Linear Regression,2017,2018,2022,0.7741,0.7775,4.19,4.2,4.11
+Central African Republic,ARIMA,2017,2018,2022,0.085,0.1154,0.45,0.46,0.46
+Central African Republic,Holt (Damped),2017,2018,2022,0.1036,0.1381,0.55,0.56,0.56
+Central African Republic,Random Forest,2017,2018,2022,0.434,0.4569,2.34,2.35,2.31
+Chad,Persistence Baseline,2017,2018,2022,0.874,0.9799,8.06,8.22,8.48
+Chad,Linear Regression,2017,2018,2022,0.8782,0.9128,8.18,8.26,8.55
+Chad,ARIMA,2017,2018,2022,0.0764,0.0955,0.7,0.72,0.7
+Chad,Holt (Damped),2017,2018,2022,0.1335,0.1652,1.22,1.25,1.23
+Chad,Random Forest,2017,2018,2022,0.236,0.2524,2.19,2.22,2.22
+Chile,Persistence Baseline,2017,2018,2022,0.93,1.0407,6.88,6.99,7.18
+Chile,Linear Regression,2017,2018,2022,0.3093,0.3262,2.3,2.33,2.33
+Chile,ARIMA,2017,2018,2022,0.06,0.0841,0.44,0.45,0.44
+Chile,Holt (Damped),2017,2018,2022,0.0701,0.0964,0.51,0.53,0.51
+Chile,Random Forest,2017,2018,2022,0.08,0.0936,0.59,0.6,0.59
+Colombia,Persistence Baseline,2017,2018,2022,0.446,0.5049,3.7,3.74,3.79
+Colombia,Linear Regression,2017,2018,2022,0.3593,0.3775,2.99,3.01,2.95
+Colombia,ARIMA,2017,2018,2022,0.1391,0.1823,1.15,1.17,1.16
+Colombia,Holt (Damped),2017,2018,2022,0.0378,0.0543,0.31,0.32,0.31
+Colombia,Random Forest,2017,2018,2022,0.228,0.2598,1.89,1.91,1.87
+Comoros,Persistence Baseline,2017,2018,2022,0.442,0.5001,7.42,7.57,7.78
+Comoros,Linear Regression,2017,2018,2022,0.4035,0.4423,6.79,6.91,7.08
+Comoros,ARIMA,2017,2018,2022,0.0565,0.0706,0.94,0.97,0.95
+Comoros,Holt (Damped),2017,2018,2022,0.1157,0.1418,1.93,1.98,1.96
+Comoros,Random Forest,2017,2018,2022,0.298,0.327,5.02,5.1,5.17
+Congo,Persistence Baseline,2017,2018,2022,0.512,0.5799,4.06,4.1,4.16
+Congo,Linear Regression,2017,2018,2022,0.1188,0.1353,0.96,0.95,0.96
+Congo,ARIMA,2017,2018,2022,0.1221,0.1516,0.96,0.98,0.97
+Congo,Holt (Damped),2017,2018,2022,0.1336,0.1658,1.05,1.07,1.06
+Congo,Random Forest,2017,2018,2022,0.352,0.3972,2.79,2.82,2.74
+Costa Rica,Persistence Baseline,2017,2018,2022,1.892,2.1023,8.49,8.65,8.95
+Costa Rica,Linear Regression,2017,2018,2022,1.5793,1.5878,7.21,7.22,7.48
+Costa Rica,ARIMA,2017,2018,2022,0.1865,0.2448,0.83,0.85,0.83
+Costa Rica,Holt (Damped),2017,2018,2022,0.0354,0.0522,0.16,0.16,0.16
+Costa Rica,Random Forest,2017,2018,2022,0.574,0.5994,2.6,2.63,2.63
+Cote d'Ivoire,Persistence Baseline,2017,2018,2022,0.882,0.9902,8.13,8.3,8.56
+Cote d'Ivoire,Linear Regression,2017,2018,2022,0.8835,0.9186,8.23,8.31,8.6
+Cote d'Ivoire,ARIMA,2017,2018,2022,0.0772,0.0974,0.7,0.73,0.71
+Cote d'Ivoire,Holt (Damped),2017,2018,2022,0.1407,0.1751,1.29,1.32,1.3
+Cote d'Ivoire,Random Forest,2017,2018,2022,0.244,0.2595,2.26,2.29,2.29
+Croatia,Persistence Baseline,2017,2018,2022,0.668,0.7481,7.62,7.76,7.99
+Croatia,Linear Regression,2017,2018,2022,0.8244,0.8444,9.51,9.58,10.0
+Croatia,ARIMA,2017,2018,2022,0.0403,0.0542,0.45,0.47,0.45
+Croatia,Holt (Damped),2017,2018,2022,0.075,0.0964,0.85,0.87,0.85
+Croatia,Random Forest,2017,2018,2022,0.186,0.2065,2.12,2.16,2.15
+Cuba,Persistence Baseline,2017,2018,2022,0.076,0.0923,0.65,0.65,0.65
+Cuba,Linear Regression,2017,2018,2022,1.1684,1.1922,9.99,10.0,9.5
+Cuba,ARIMA,2017,2018,2022,0.1079,0.1393,0.92,0.92,0.93
+Cuba,Holt (Damped),2017,2018,2022,0.0225,0.0336,0.19,0.19,0.19
+Cuba,Random Forest,2017,2018,2022,0.734,0.8144,6.27,6.28,6.04
+Cyprus,Persistence Baseline,2017,2018,2022,0.046,0.0637,0.64,0.64,0.64
+Cyprus,Linear Regression,2017,2018,2022,0.6416,0.6436,8.91,8.92,8.53
+Cyprus,ARIMA,2017,2018,2022,0.0689,0.0869,0.95,0.96,0.96
+Cyprus,Holt (Damped),2017,2018,2022,0.0725,0.0913,1.0,1.01,1.01
+Cyprus,Random Forest,2017,2018,2022,0.28,0.3107,3.88,3.89,3.79
+Czechia,Persistence Baseline,2017,2018,2022,0.384,0.4335,5.1,5.17,5.27
+Czechia,Linear Regression,2017,2018,2022,0.4348,0.4496,5.82,5.86,6.0
+Czechia,ARIMA,2017,2018,2022,0.0364,0.0485,0.48,0.49,0.48
+Czechia,Holt (Damped),2017,2018,2022,0.0578,0.0758,0.76,0.78,0.77
+Czechia,Random Forest,2017,2018,2022,0.028,0.0358,0.38,0.38,0.38
+Democratic Republic of the Congo,Persistence Baseline,2017,2018,2022,0.374,0.4267,4.09,4.14,4.21
+Democratic Republic of the Congo,Linear Regression,2017,2018,2022,0.0793,0.0987,0.87,0.88,0.87
+Democratic Republic of the Congo,ARIMA,2017,2018,2022,0.1043,0.1308,1.14,1.16,1.15
+Democratic Republic of the Congo,Holt (Damped),2017,2018,2022,0.1109,0.1391,1.21,1.23,1.22
+Democratic Republic of the Congo,Random Forest,2017,2018,2022,0.198,0.2144,2.18,2.19,2.15
+Denmark,Persistence Baseline,2017,2018,2022,0.092,0.0978,3.91,3.89,3.82
+Denmark,Linear Regression,2017,2018,2022,0.2886,0.2892,12.2,12.19,11.5
+Denmark,ARIMA,2017,2018,2022,0.0227,0.0305,0.97,0.96,0.98
+Denmark,Holt (Damped),2017,2018,2022,0.0135,0.0187,0.58,0.57,0.58
+Denmark,Random Forest,2017,2018,2022,0.522,0.523,22.07,22.04,19.86
+Djibouti,Persistence Baseline,2017,2018,2022,0.466,0.5266,5.5,5.58,5.7
+Djibouti,Linear Regression,2017,2018,2022,0.1242,0.1612,1.46,1.49,1.47
+Djibouti,ARIMA,2017,2018,2022,0.0241,0.0323,0.28,0.29,0.28
+Djibouti,Holt (Damped),2017,2018,2022,0.127,0.1565,1.49,1.52,1.51
+Djibouti,Random Forest,2017,2018,2022,0.074,0.075,0.89,0.89,0.88
+Dominica,Persistence Baseline,2017,2018,2022,0.7,0.7844,3.13,3.15,3.19
+Dominica,Linear Regression,2017,2018,2022,1.2425,1.2681,5.58,5.59,5.42
+Dominica,ARIMA,2017,2018,2022,0.3965,0.4786,1.77,1.79,1.79
+Dominica,Holt (Damped),2017,2018,2022,0.1745,0.2067,0.78,0.79,0.78
+Dominica,Random Forest,2017,2018,2022,0.966,1.0242,4.33,4.35,4.23
+Dominican Republic,Persistence Baseline,2017,2018,2022,1.414,1.5766,8.4,8.56,8.85
+Dominican Republic,Linear Regression,2017,2018,2022,1.0174,1.036,6.12,6.16,6.32
+Dominican Republic,ARIMA,2017,2018,2022,0.1229,0.1568,0.72,0.74,0.73
+Dominican Republic,Holt (Damped),2017,2018,2022,0.1093,0.1404,0.64,0.66,0.64
+Dominican Republic,Random Forest,2017,2018,2022,0.368,0.3958,2.2,2.23,2.23
+Ecuador,Persistence Baseline,2017,2018,2022,1.13,1.2638,9.34,9.54,9.9
+Ecuador,Linear Regression,2017,2018,2022,1.2207,1.2559,10.21,10.31,10.79
+Ecuador,ARIMA,2017,2018,2022,0.0398,0.054,0.32,0.34,0.32
+Ecuador,Holt (Damped),2017,2018,2022,0.1218,0.1545,0.99,1.03,1.0
+Ecuador,Random Forest,2017,2018,2022,0.38,0.4396,3.13,3.21,3.19
+Egypt,Persistence Baseline,2017,2018,2022,1.908,2.1167,7.1,7.21,7.42
+Egypt,Linear Regression,2017,2018,2022,1.9865,1.9962,7.49,7.51,7.78
+Egypt,ARIMA,2017,2018,2022,0.0642,0.0706,0.24,0.24,0.24
+Egypt,Holt (Damped),2017,2018,2022,0.2566,0.2752,0.96,0.97,0.95
+Egypt,Random Forest,2017,2018,2022,1.22,1.4021,4.52,4.61,4.66
+El Salvador,Persistence Baseline,2017,2018,2022,0.254,0.2903,2.0,2.01,2.03
+El Salvador,Linear Regression,2017,2018,2022,0.7743,0.7988,6.12,6.13,5.93
+El Salvador,ARIMA,2017,2018,2022,0.1693,0.2193,1.33,1.34,1.34
+El Salvador,Holt (Damped),2017,2018,2022,0.0274,0.0407,0.21,0.22,0.22
+El Salvador,Random Forest,2017,2018,2022,0.754,0.8388,5.94,5.97,5.73
+Equatorial Guinea,Persistence Baseline,2017,2018,2022,0.628,0.7087,4.82,4.88,4.97
+Equatorial Guinea,Linear Regression,2017,2018,2022,0.095,0.1176,0.73,0.74,0.73
+Equatorial Guinea,ARIMA,2017,2018,2022,0.1138,0.1432,0.87,0.88,0.87
+Equatorial Guinea,Holt (Damped),2017,2018,2022,0.1254,0.1568,0.96,0.97,0.96
+Equatorial Guinea,Random Forest,2017,2018,2022,0.282,0.3121,2.17,2.19,2.14
+Eritrea,Persistence Baseline,2017,2018,2022,0.56,0.6341,6.76,6.88,7.06
+Eritrea,Linear Regression,2017,2018,2022,0.3336,0.3814,4.02,4.1,4.13
+Eritrea,ARIMA,2017,2018,2022,0.0893,0.1112,1.07,1.1,1.08
+Eritrea,Holt (Damped),2017,2018,2022,0.1484,0.1826,1.78,1.82,1.8
+Eritrea,Random Forest,2017,2018,2022,0.084,0.1043,1.01,1.03,1.01
+Estonia,Persistence Baseline,2017,2018,2022,0.848,0.9534,10.15,10.41,10.83
+Estonia,Linear Regression,2017,2018,2022,0.9684,1.0065,11.74,11.89,12.52
+Estonia,ARIMA,2017,2018,2022,0.0629,0.0808,0.74,0.77,0.75
+Estonia,Holt (Damped),2017,2018,2022,0.1375,0.1721,1.62,1.69,1.64
+Estonia,Random Forest,2017,2018,2022,0.448,0.4977,5.37,5.5,5.55
+Eswatini,Persistence Baseline,2017,2018,2022,0.664,0.7479,5.69,5.78,5.9
+Eswatini,Linear Regression,2017,2018,2022,0.1454,0.1883,1.24,1.27,1.25
+Eswatini,ARIMA,2017,2018,2022,0.0823,0.104,0.7,0.72,0.7
+Eswatini,Holt (Damped),2017,2018,2022,0.1387,0.1718,1.18,1.21,1.19
+Eswatini,Random Forest,2017,2018,2022,0.048,0.0562,0.42,0.42,0.42
+Ethiopia,Persistence Baseline,2017,2018,2022,0.306,0.3523,4.62,4.69,4.76
+Ethiopia,Linear Regression,2017,2018,2022,0.1022,0.1142,1.57,1.57,1.57
+Ethiopia,ARIMA,2017,2018,2022,0.0235,0.0331,0.35,0.36,0.35
+Ethiopia,Holt (Damped),2017,2018,2022,0.1191,0.1509,1.79,1.82,1.81
+Ethiopia,Random Forest,2017,2018,2022,0.056,0.0713,0.84,0.86,0.85
+Finland,Persistence Baseline,2017,2018,2022,0.57,0.6395,8.04,8.2,8.46
+Finland,Linear Regression,2017,2018,2022,0.5528,0.5755,7.87,7.95,8.22
+Finland,ARIMA,2017,2018,2022,0.0653,0.0847,0.91,0.94,0.92
+Finland,Holt (Damped),2017,2018,2022,0.0659,0.0855,0.92,0.95,0.92
+Finland,Random Forest,2017,2018,2022,0.288,0.3254,4.06,4.14,4.17
+France,Persistence Baseline,2017,2018,2022,0.422,0.4604,14.81,14.36,13.58
+France,Linear Regression,2017,2018,2022,1.1154,1.1255,38.43,37.96,32.07
+France,ARIMA,2017,2018,2022,0.0707,0.088,2.52,2.41,2.58
+France,Holt (Damped),2017,2018,2022,0.0524,0.0657,1.87,1.78,1.9
+France,Random Forest,2017,2018,2022,0.722,0.7513,25.11,24.57,22.05
+Gabon,Persistence Baseline,2017,2018,2022,0.658,0.7418,5.0,5.07,5.16
+Gabon,Linear Regression,2017,2018,2022,0.1422,0.1811,1.07,1.09,1.08
+Gabon,ARIMA,2017,2018,2022,0.1198,0.1499,0.9,0.92,0.91
+Gabon,Holt (Damped),2017,2018,2022,0.122,0.1529,0.92,0.94,0.93
+Gabon,Random Forest,2017,2018,2022,0.39,0.4243,2.97,3.0,2.92
+Gambia,Persistence Baseline,2017,2018,2022,1.162,1.3,9.14,9.34,9.68
+Gambia,Linear Regression,2017,2018,2022,1.2391,1.2815,9.86,9.96,10.4
+Gambia,ARIMA,2017,2018,2022,0.0423,0.0534,0.33,0.34,0.33
+Gambia,Holt (Damped),2017,2018,2022,0.1538,0.1903,1.2,1.24,1.21
+Gambia,Random Forest,2017,2018,2022,0.432,0.4939,3.39,3.47,3.47
+Georgia,Persistence Baseline,2017,2018,2022,0.034,0.0387,0.37,0.36,0.36
+Georgia,Linear Regression,2017,2018,2022,1.1291,1.1328,12.12,12.12,11.42
+Georgia,ARIMA,2017,2018,2022,0.0974,0.1095,1.04,1.05,1.04
+Georgia,Holt (Damped),2017,2018,2022,0.0491,0.0666,0.53,0.53,0.53
+Georgia,Random Forest,2017,2018,2022,0.636,0.6929,6.82,6.83,6.56
+Germany,Persistence Baseline,2017,2018,2022,0.012,0.0141,0.18,0.18,0.18
+Germany,Linear Regression,2017,2018,2022,0.6365,0.6389,9.69,9.69,9.24
+Germany,ARIMA,2017,2018,2022,0.021,0.0268,0.32,0.32,0.32
+Germany,Holt (Damped),2017,2018,2022,0.0446,0.0552,0.68,0.68,0.68
+Germany,Random Forest,2017,2018,2022,0.292,0.3192,4.44,4.45,4.33
+Ghana,Persistence Baseline,2017,2018,2022,1.244,1.3949,12.74,13.13,13.82
+Ghana,Linear Regression,2017,2018,2022,1.8185,1.8813,18.94,19.19,21.02
+Ghana,ARIMA,2017,2018,2022,0.0374,0.0463,0.38,0.4,0.38
+Ghana,Holt (Damped),2017,2018,2022,0.2062,0.2528,2.08,2.18,2.12
+Ghana,Random Forest,2017,2018,2022,0.678,0.7551,6.95,7.16,7.26
+Greece,Persistence Baseline,2017,2018,2022,0.05,0.0618,0.69,0.7,0.7
+Greece,Linear Regression,2017,2018,2022,0.6586,0.6624,9.17,9.17,8.76
+Greece,ARIMA,2017,2018,2022,0.0792,0.0934,1.1,1.1,1.11
+Greece,Holt (Damped),2017,2018,2022,0.0708,0.0841,0.98,0.99,0.99
+Greece,Random Forest,2017,2018,2022,0.296,0.3285,4.11,4.12,4.01
+Greenland,Persistence Baseline,2017,2018,2022,0.016,0.021,0.25,0.25,0.25
+Greenland,Linear Regression,2017,2018,2022,0.5794,0.5822,9.17,9.17,8.76
+Greenland,ARIMA,2017,2018,2022,0.0182,0.0249,0.29,0.29,0.29
+Greenland,Holt (Damped),2017,2018,2022,0.0333,0.0443,0.53,0.53,0.53
+Greenland,Random Forest,2017,2018,2022,0.248,0.2738,3.92,3.93,3.83
+Grenada,Persistence Baseline,2017,2018,2022,1.012,1.1285,5.13,5.19,5.3
+Grenada,Linear Regression,2017,2018,2022,0.1148,0.1186,0.59,0.59,0.58
+Grenada,ARIMA,2017,2018,2022,0.1114,0.1433,0.56,0.57,0.56
+Grenada,Holt (Damped),2017,2018,2022,0.0631,0.0843,0.32,0.32,0.32
+Grenada,Random Forest,2017,2018,2022,0.052,0.0732,0.26,0.27,0.26
+Guatemala,Persistence Baseline,2017,2018,2022,0.118,0.1369,0.61,0.61,0.62
+Guatemala,Linear Regression,2017,2018,2022,1.7835,1.8688,9.27,9.28,8.82
+Guatemala,ARIMA,2017,2018,2022,0.2923,0.3872,1.52,1.52,1.54
+Guatemala,Holt (Damped),2017,2018,2022,0.1164,0.1244,0.6,0.61,0.6
+Guatemala,Random Forest,2017,2018,2022,1.122,1.2392,5.83,5.84,5.63
+Guinea,Persistence Baseline,2017,2018,2022,0.876,0.9816,8.87,9.06,9.38
+Guinea,Linear Regression,2017,2018,2022,1.0485,1.0845,10.74,10.85,11.38
+Guinea,ARIMA,2017,2018,2022,0.021,0.0293,0.21,0.22,0.21
+Guinea,Holt (Damped),2017,2018,2022,0.1051,0.1339,1.05,1.09,1.06
+Guinea,Random Forest,2017,2018,2022,0.258,0.3137,2.59,2.67,2.64
+Guinea-Bissau,Persistence Baseline,2017,2018,2022,0.88,0.9871,8.06,8.22,8.49
+Guinea-Bissau,Linear Regression,2017,2018,2022,0.8745,0.9086,8.09,8.17,8.45
+Guinea-Bissau,ARIMA,2017,2018,2022,0.1156,0.1439,1.05,1.08,1.06
+Guinea-Bissau,Holt (Damped),2017,2018,2022,0.1387,0.1716,1.26,1.3,1.27
+Guinea-Bissau,Random Forest,2017,2018,2022,0.064,0.0764,0.58,0.6,0.59
+Guyana,Persistence Baseline,2017,2018,2022,1.162,1.3,5.38,5.45,5.57
+Guyana,Linear Regression,2017,2018,2022,0.0682,0.0704,0.32,0.32,0.32
+Guyana,ARIMA,2017,2018,2022,0.0749,0.0996,0.34,0.35,0.34
+Guyana,Holt (Damped),2017,2018,2022,0.0378,0.0445,0.18,0.18,0.18
+Guyana,Random Forest,2017,2018,2022,0.484,0.5337,2.25,2.27,2.22
+Haiti,Persistence Baseline,2017,2018,2022,1.422,1.587,6.19,6.28,6.43
+Haiti,Linear Regression,2017,2018,2022,0.2935,0.299,1.29,1.3,1.3
+Haiti,ARIMA,2017,2018,2022,0.0737,0.1053,0.32,0.33,0.32
+Haiti,Holt (Damped),2017,2018,2022,0.0623,0.0897,0.27,0.28,0.27
+Haiti,Random Forest,2017,2018,2022,0.18,0.2013,0.8,0.79,0.8
+Honduras,Persistence Baseline,2017,2018,2022,0.668,0.7481,5.15,5.21,5.32
+Honduras,Linear Regression,2017,2018,2022,0.1186,0.1222,0.93,0.93,0.94
+Honduras,ARIMA,2017,2018,2022,0.1151,0.1484,0.88,0.9,0.89
+Honduras,Holt (Damped),2017,2018,2022,0.0453,0.0655,0.34,0.35,0.35
+Honduras,Random Forest,2017,2018,2022,0.22,0.2605,1.69,1.72,1.67
+Hungary,Persistence Baseline,2017,2018,2022,0.854,0.9568,7.89,8.05,8.3
+Hungary,Linear Regression,2017,2018,2022,0.9305,0.9606,8.69,8.77,9.1
+Hungary,ARIMA,2017,2018,2022,0.0487,0.0625,0.44,0.46,0.45
+Hungary,Holt (Damped),2017,2018,2022,0.1127,0.1412,1.03,1.06,1.04
+Hungary,Random Forest,2017,2018,2022,0.216,0.2299,2.01,2.04,2.03
+Iceland,Persistence Baseline,2017,2018,2022,0.348,0.3937,6.68,6.8,6.97
+Iceland,Linear Regression,2017,2018,2022,0.2961,0.3201,5.71,5.78,5.9
+Iceland,ARIMA,2017,2018,2022,0.0798,0.0991,1.52,1.56,1.54
+Iceland,Holt (Damped),2017,2018,2022,0.0811,0.1007,1.55,1.59,1.56
+Iceland,Random Forest,2017,2018,2022,0.268,0.3191,5.12,5.24,5.31
+Iran (Islamic Republic of),Persistence Baseline,2017,2018,2022,0.236,0.2533,1.62,1.62,1.63
+Iran (Islamic Republic of),Linear Regression,2017,2018,2022,0.2957,0.3578,2.04,2.03,2.06
+Iran (Islamic Republic of),ARIMA,2017,2018,2022,0.6363,0.7091,4.35,4.37,4.24
+Iran (Islamic Republic of),Holt (Damped),2017,2018,2022,0.6783,0.7565,4.64,4.65,4.51
+Iran (Islamic Republic of),Random Forest,2017,2018,2022,0.956,1.0592,6.54,6.56,6.29
+Iraq,Persistence Baseline,2017,2018,2022,1.236,1.3714,4.97,5.02,5.12
+Iraq,Linear Regression,2017,2018,2022,0.8579,0.8583,3.48,3.49,3.55
+Iraq,ARIMA,2017,2018,2022,0.0525,0.0603,0.22,0.21,0.21
+Iraq,Holt (Damped),2017,2018,2022,0.2466,0.2668,0.99,1.0,0.99
+Iraq,Random Forest,2017,2018,2022,0.122,0.1694,0.49,0.5,0.49
+Ireland,Persistence Baseline,2017,2018,2022,0.808,0.9075,10.9,11.19,11.69
+Ireland,Linear Regression,2017,2018,2022,1.1536,1.1943,15.79,15.98,17.22
+Ireland,ARIMA,2017,2018,2022,0.0599,0.0727,0.8,0.83,0.8
+Ireland,Holt (Damped),2017,2018,2022,0.1557,0.1896,2.08,2.16,2.11
+Ireland,Random Forest,2017,2018,2022,0.474,0.54,6.38,6.57,6.65
+Israel,Persistence Baseline,2017,2018,2022,0.266,0.285,3.31,3.29,3.25
+Israel,Linear Regression,2017,2018,2022,1.5704,1.5824,19.48,19.45,17.73
+Israel,ARIMA,2017,2018,2022,0.0198,0.0271,0.25,0.25,0.25
+Israel,Holt (Damped),2017,2018,2022,0.0341,0.0457,0.43,0.42,0.43
+Israel,Random Forest,2017,2018,2022,0.934,1.0241,11.64,11.57,10.88
+Italy,Persistence Baseline,2017,2018,2022,0.388,0.4337,5.53,5.61,5.73
+Italy,Linear Regression,2017,2018,2022,0.2682,0.2832,3.84,3.88,3.93
+Italy,ARIMA,2017,2018,2022,0.0639,0.077,0.91,0.92,0.91
+Italy,Holt (Damped),2017,2018,2022,0.0657,0.0785,0.93,0.95,0.94
+Italy,Random Forest,2017,2018,2022,0.062,0.0806,0.88,0.9,0.88
+Jamaica,Persistence Baseline,2017,2018,2022,1.9,2.1108,8.05,8.2,8.47
+Jamaica,Linear Regression,2017,2018,2022,1.0427,1.0508,4.48,4.5,4.59
+Jamaica,ARIMA,2017,2018,2022,0.1487,0.191,0.62,0.64,0.63
+Jamaica,Holt (Damped),2017,2018,2022,0.0616,0.0865,0.26,0.27,0.26
+Jamaica,Random Forest,2017,2018,2022,0.356,0.4612,1.49,1.54,1.51
+Jordan,Persistence Baseline,2017,2018,2022,0.57,0.6272,3.06,3.04,3.0
+Jordan,Linear Regression,2017,2018,2022,2.432,2.5023,13.0,12.96,12.16
+Jordan,ARIMA,2017,2018,2022,0.0677,0.0721,0.36,0.36,0.36
+Jordan,Holt (Damped),2017,2018,2022,0.3305,0.3653,1.77,1.76,1.75
+Jordan,Random Forest,2017,2018,2022,1.734,1.9461,9.31,9.24,8.79
+Kazakhstan,Persistence Baseline,2017,2018,2022,0.49,0.551,4.92,4.98,5.08
+Kazakhstan,Linear Regression,2017,2018,2022,0.0874,0.1036,0.88,0.89,0.88
+Kazakhstan,ARIMA,2017,2018,2022,0.042,0.0504,0.42,0.43,0.42
+Kazakhstan,Holt (Damped),2017,2018,2022,0.1203,0.1464,1.2,1.22,1.21
+Kazakhstan,Random Forest,2017,2018,2022,0.122,0.1289,1.23,1.24,1.22
+Kenya,Persistence Baseline,2017,2018,2022,0.208,0.2428,3.79,3.85,3.89
+Kenya,Linear Regression,2017,2018,2022,0.0962,0.1114,1.8,1.78,1.78
+Kenya,ARIMA,2017,2018,2022,0.023,0.0339,0.41,0.42,0.42
+Kenya,Holt (Damped),2017,2018,2022,0.1074,0.1357,1.95,1.99,1.98
+Kenya,Random Forest,2017,2018,2022,0.076,0.0858,1.39,1.41,1.4
+Kuwait,Persistence Baseline,2017,2018,2022,0.156,0.1747,0.58,0.59,0.59
+Kuwait,Linear Regression,2017,2018,2022,1.8721,1.9363,7.02,7.03,6.77
+Kuwait,ARIMA,2017,2018,2022,0.3023,0.3266,1.13,1.13,1.13
+Kuwait,Holt (Damped),2017,2018,2022,0.3802,0.4183,1.43,1.43,1.41
+Kuwait,Random Forest,2017,2018,2022,0.354,0.4019,1.33,1.33,1.32
+Kyrgyzstan,Persistence Baseline,2017,2018,2022,0.872,0.9813,7.54,7.69,7.91
+Kyrgyzstan,Linear Regression,2017,2018,2022,0.6387,0.6944,5.54,5.63,5.73
+Kyrgyzstan,ARIMA,2017,2018,2022,0.0697,0.0789,0.6,0.61,0.6
+Kyrgyzstan,Holt (Damped),2017,2018,2022,0.1307,0.1672,1.12,1.15,1.13
+Kyrgyzstan,Random Forest,2017,2018,2022,0.144,0.1725,1.24,1.27,1.25
+Latvia,Persistence Baseline,2017,2018,2022,0.834,0.9378,9.39,9.61,9.97
+Latvia,Linear Regression,2017,2018,2022,0.9194,0.9585,10.47,10.6,11.09
+Latvia,ARIMA,2017,2018,2022,0.0378,0.0522,0.42,0.44,0.42
+Latvia,Holt (Damped),2017,2018,2022,0.124,0.1577,1.38,1.43,1.39
+Latvia,Random Forest,2017,2018,2022,0.32,0.3614,3.6,3.69,3.69
+Lebanon,Persistence Baseline,2017,2018,2022,0.736,0.8282,3.87,3.91,3.96
+Lebanon,Linear Regression,2017,2018,2022,0.124,0.1263,0.66,0.66,0.66
+Lebanon,ARIMA,2017,2018,2022,0.1109,0.1152,0.59,0.59,0.59
+Lebanon,Holt (Damped),2017,2018,2022,0.1234,0.1282,0.65,0.66,0.65
+Lebanon,Random Forest,2017,2018,2022,0.352,0.3797,1.85,1.87,1.84
+Lesotho,Persistence Baseline,2017,2018,2022,0.466,0.5292,6.2,6.31,6.46
+Lesotho,Linear Regression,2017,2018,2022,0.2781,0.3238,3.69,3.77,3.79
+Lesotho,ARIMA,2017,2018,2022,0.0157,0.0226,0.21,0.21,0.21
+Lesotho,Holt (Damped),2017,2018,2022,0.1197,0.1509,1.58,1.62,1.6
+Lesotho,Random Forest,2017,2018,2022,0.156,0.1877,2.07,2.11,2.1
+Liberia,Persistence Baseline,2017,2018,2022,0.922,1.0167,9.44,9.24,8.92
+Liberia,Linear Regression,2017,2018,2022,3.1125,3.1725,31.52,31.19,27.04
+Liberia,ARIMA,2017,2018,2022,0.0526,0.0768,0.55,0.53,0.55
+Liberia,Holt (Damped),2017,2018,2022,0.1175,0.1308,1.2,1.18,1.2
+Liberia,Random Forest,2017,2018,2022,1.734,1.8984,17.74,17.38,16.02
+Libya,Persistence Baseline,2017,2018,2022,0.868,0.9582,3.14,3.17,3.21
+Libya,Linear Regression,2017,2018,2022,0.7543,0.8252,2.73,2.75,2.69
+Libya,ARIMA,2017,2018,2022,0.0621,0.0704,0.22,0.23,0.22
+Libya,Holt (Damped),2017,2018,2022,0.3181,0.3517,1.15,1.16,1.14
+Libya,Random Forest,2017,2018,2022,0.46,0.4835,1.67,1.68,1.69
+Lithuania,Persistence Baseline,2017,2018,2022,0.8,0.8992,7.38,7.52,7.74
+Lithuania,Linear Regression,2017,2018,2022,0.5616,0.5951,5.21,5.28,5.37
+Lithuania,ARIMA,2017,2018,2022,0.1422,0.175,1.3,1.34,1.31
+Lithuania,Holt (Damped),2017,2018,2022,0.1487,0.1826,1.36,1.4,1.38
+Lithuania,Random Forest,2017,2018,2022,0.014,0.0161,0.13,0.13,0.13
+Luxembourg,Persistence Baseline,2017,2018,2022,0.138,0.1599,2.37,2.38,2.4
+Luxembourg,Linear Regression,2017,2018,2022,0.2084,0.2088,3.6,3.6,3.54
+Luxembourg,ARIMA,2017,2018,2022,0.0791,0.0955,1.35,1.37,1.37
+Luxembourg,Holt (Damped),2017,2018,2022,0.0877,0.1059,1.5,1.51,1.52
+Luxembourg,Random Forest,2017,2018,2022,0.122,0.1416,2.09,2.11,2.06
+Madagascar,Persistence Baseline,2017,2018,2022,0.466,0.5292,5.51,5.59,5.7
+Madagascar,Linear Regression,2017,2018,2022,0.128,0.1667,1.5,1.54,1.52
+Madagascar,ARIMA,2017,2018,2022,0.0416,0.0566,0.49,0.5,0.49
+Madagascar,Holt (Damped),2017,2018,2022,0.1268,0.1595,1.49,1.52,1.51
+Madagascar,Random Forest,2017,2018,2022,0.07,0.0706,0.84,0.84,0.84
+Malawi,Persistence Baseline,2017,2018,2022,0.09,0.0928,1.71,1.71,1.69
+Malawi,Linear Regression,2017,2018,2022,0.7228,0.7235,13.72,13.71,12.84
+Malawi,ARIMA,2017,2018,2022,0.0303,0.0374,0.58,0.57,0.58
+Malawi,Holt (Damped),2017,2018,2022,0.0703,0.0865,1.34,1.33,1.35
+Malawi,Random Forest,2017,2018,2022,0.274,0.2996,5.21,5.2,5.05
+Mali,Persistence Baseline,2017,2018,2022,0.652,0.732,8.05,8.21,8.47
+Mali,Linear Regression,2017,2018,2022,0.7581,0.7897,9.45,9.55,9.95
+Mali,ARIMA,2017,2018,2022,0.0572,0.0703,0.7,0.72,0.7
+Mali,Holt (Damped),2017,2018,2022,0.1191,0.1458,1.46,1.5,1.47
+Mali,Random Forest,2017,2018,2022,0.34,0.3651,4.22,4.28,4.32
+Malta,Persistence Baseline,2017,2018,2022,0.168,0.193,1.77,1.78,1.79
+Malta,Linear Regression,2017,2018,2022,0.6399,0.6428,6.77,6.77,6.54
+Malta,ARIMA,2017,2018,2022,0.049,0.0629,0.51,0.52,0.52
+Malta,Holt (Damped),2017,2018,2022,0.065,0.0814,0.68,0.69,0.69
+Malta,Random Forest,2017,2018,2022,0.434,0.4807,4.57,4.59,4.45
+Mauritania,Persistence Baseline,2017,2018,2022,1.018,1.1415,9.17,9.38,9.72
+Mauritania,Linear Regression,2017,2018,2022,1.171,1.2115,10.67,10.78,11.31
+Mauritania,ARIMA,2017,2018,2022,0.0827,0.1032,0.74,0.76,0.74
+Mauritania,Holt (Damped),2017,2018,2022,0.1581,0.1954,1.41,1.46,1.42
+Mauritania,Random Forest,2017,2018,2022,0.22,0.2461,1.98,2.03,2.01
+Mauritius,Persistence Baseline,2017,2018,2022,0.426,0.4728,1.76,1.76,1.78
+Mauritius,Linear Regression,2017,2018,2022,1.2417,1.2832,5.13,5.14,5.0
+Mauritius,ARIMA,2017,2018,2022,0.0353,0.0486,0.15,0.15,0.15
+Mauritius,Holt (Damped),2017,2018,2022,0.0931,0.0996,0.38,0.39,0.38
+Mauritius,Random Forest,2017,2018,2022,0.552,0.5899,2.28,2.29,2.25
+Mexico,Persistence Baseline,2017,2018,2022,1.636,1.7979,10.95,10.69,10.26
+Mexico,Linear Regression,2017,2018,2022,5.6306,5.7556,37.26,36.79,31.13
+Mexico,ARIMA,2017,2018,2022,0.1368,0.187,0.94,0.89,0.94
+Mexico,Holt (Damped),2017,2018,2022,0.0348,0.0386,0.23,0.23,0.23
+Mexico,Random Forest,2017,2018,2022,2.61,2.9027,17.5,17.05,15.77
+Montenegro,Persistence Baseline,2017,2018,2022,0.932,1.0456,9.09,9.29,9.63
+Montenegro,Linear Regression,2017,2018,2022,1.1292,1.1644,11.15,11.26,11.84
+Montenegro,ARIMA,2017,2018,2022,0.0604,0.078,0.58,0.6,0.58
+Montenegro,Holt (Damped),2017,2018,2022,0.1314,0.1651,1.27,1.31,1.28
+Montenegro,Random Forest,2017,2018,2022,0.364,0.4211,3.54,3.63,3.62
+Morocco,Persistence Baseline,2017,2018,2022,0.488,0.5455,2.64,2.65,2.68
+Morocco,Linear Regression,2017,2018,2022,0.3723,0.4039,2.01,2.02,1.99
+Morocco,ARIMA,2017,2018,2022,0.2249,0.2437,1.22,1.22,1.21
+Morocco,Holt (Damped),2017,2018,2022,0.2144,0.2308,1.16,1.17,1.15
+Morocco,Random Forest,2017,2018,2022,0.558,0.5995,3.02,3.03,2.97
+Mozambique,Persistence Baseline,2017,2018,2022,0.362,0.4107,4.85,4.92,5.01
+Mozambique,Linear Regression,2017,2018,2022,0.0948,0.1087,1.29,1.29,1.29
+Mozambique,ARIMA,2017,2018,2022,0.1337,0.1595,1.79,1.82,1.81
+Mozambique,Holt (Damped),2017,2018,2022,0.1476,0.1779,1.97,2.01,2.0
+Mozambique,Random Forest,2017,2018,2022,0.04,0.0469,0.54,0.54,0.54
+Namibia,Persistence Baseline,2017,2018,2022,0.554,0.6268,5.24,5.32,5.42
+Namibia,Linear Regression,2017,2018,2022,0.1987,0.2477,1.87,1.91,1.9
+Namibia,ARIMA,2017,2018,2022,0.0512,0.0636,0.48,0.49,0.48
+Namibia,Holt (Damped),2017,2018,2022,0.1389,0.1711,1.31,1.33,1.32
+Namibia,Random Forest,2017,2018,2022,0.224,0.2521,2.12,2.15,2.09
+Netherlands (Kingdom of the),Persistence Baseline,2017,2018,2022,0.354,0.4003,5.73,5.82,5.94
+Netherlands (Kingdom of the),Linear Regression,2017,2018,2022,0.3539,0.3771,5.76,5.82,5.95
+Netherlands (Kingdom of the),ARIMA,2017,2018,2022,0.1027,0.1227,1.66,1.69,1.68
+Netherlands (Kingdom of the),Holt (Damped),2017,2018,2022,0.1345,0.161,2.17,2.21,2.2
+Netherlands (Kingdom of the),Random Forest,2017,2018,2022,0.05,0.0585,0.81,0.82,0.82
+Nicaragua,Persistence Baseline,2017,2018,2022,0.408,0.4614,2.88,2.9,2.93
+Nicaragua,Linear Regression,2017,2018,2022,0.6409,0.6651,4.54,4.56,4.43
+Nicaragua,ARIMA,2017,2018,2022,0.1753,0.2274,1.23,1.25,1.24
+Nicaragua,Holt (Damped),2017,2018,2022,0.0314,0.0464,0.22,0.22,0.22
+Nicaragua,Random Forest,2017,2018,2022,0.818,0.8782,5.79,5.82,5.6
+Niger,Persistence Baseline,2017,2018,2022,0.058,0.0602,0.93,0.93,0.93
+Niger,Linear Regression,2017,2018,2022,0.5489,0.5553,8.8,8.79,8.42
+Niger,ARIMA,2017,2018,2022,0.0287,0.0418,0.46,0.46,0.46
+Niger,Holt (Damped),2017,2018,2022,0.0111,0.0124,0.18,0.18,0.18
+Niger,Random Forest,2017,2018,2022,0.324,0.3564,5.2,5.19,5.04
+Nigeria,Persistence Baseline,2017,2018,2022,0.854,0.9582,8.14,8.3,8.57
+Nigeria,Linear Regression,2017,2018,2022,1.1105,1.147,10.7,10.8,11.34
+Nigeria,ARIMA,2017,2018,2022,0.0513,0.0694,0.48,0.5,0.48
+Nigeria,Holt (Damped),2017,2018,2022,0.1127,0.1435,1.06,1.1,1.07
+Nigeria,Random Forest,2017,2018,2022,0.324,0.3597,3.09,3.15,3.15
+North Macedonia,Persistence Baseline,2017,2018,2022,0.972,1.0897,9.31,9.52,9.87
+North Macedonia,Linear Regression,2017,2018,2022,1.184,1.2206,11.48,11.59,12.21
+North Macedonia,ARIMA,2017,2018,2022,0.0266,0.0385,0.25,0.26,0.25
+North Macedonia,Holt (Damped),2017,2018,2022,0.1121,0.1447,1.06,1.1,1.07
+North Macedonia,Random Forest,2017,2018,2022,0.436,0.503,4.16,4.27,4.28
+Norway,Persistence Baseline,2017,2018,2022,0.164,0.1904,2.97,3.0,3.03
+Norway,Linear Regression,2017,2018,2022,0.1452,0.1493,2.67,2.65,2.63
+Norway,ARIMA,2017,2018,2022,0.0751,0.0933,1.35,1.37,1.37
+Norway,Holt (Damped),2017,2018,2022,0.0907,0.1122,1.64,1.66,1.66
+Norway,Random Forest,2017,2018,2022,0.024,0.0329,0.44,0.44,0.44
+Oman,Persistence Baseline,2017,2018,2022,0.71,0.7914,3.08,3.11,3.14
+Oman,Linear Regression,2017,2018,2022,0.104,0.1346,0.46,0.45,0.46
+Oman,ARIMA,2017,2018,2022,0.1197,0.1275,0.52,0.52,0.52
+Oman,Holt (Damped),2017,2018,2022,0.2881,0.311,1.25,1.26,1.24
+Oman,Random Forest,2017,2018,2022,0.764,0.7885,3.33,3.34,3.27
+Pakistan,Persistence Baseline,2017,2018,2022,3.334,3.7034,11.38,11.66,12.22
+Pakistan,Linear Regression,2017,2018,2022,4.1902,4.2789,14.53,14.66,15.7
+Pakistan,ARIMA,2017,2018,2022,0.1074,0.1294,0.36,0.38,0.36
+Pakistan,Holt (Damped),2017,2018,2022,0.1909,0.2377,0.64,0.67,0.65
+Pakistan,Random Forest,2017,2018,2022,3.056,3.4304,10.42,10.69,11.13
+Panama,Persistence Baseline,2017,2018,2022,0.038,0.0397,0.44,0.44,0.44
+Panama,Linear Regression,2017,2018,2022,0.8585,0.8829,9.92,9.92,9.43
+Panama,ARIMA,2017,2018,2022,0.1046,0.1386,1.21,1.21,1.22
+Panama,Holt (Damped),2017,2018,2022,0.0162,0.0168,0.19,0.19,0.19
+Panama,Random Forest,2017,2018,2022,0.57,0.6373,6.59,6.59,6.33
+Paraguay,Persistence Baseline,2017,2018,2022,0.98,1.098,7.07,7.2,7.4
+Paraguay,Linear Regression,2017,2018,2022,0.6569,0.6832,4.78,4.82,4.9
+Paraguay,ARIMA,2017,2018,2022,0.0519,0.0719,0.37,0.38,0.37
+Paraguay,Holt (Damped),2017,2018,2022,0.0904,0.1208,0.64,0.66,0.65
+Paraguay,Random Forest,2017,2018,2022,0.05,0.0631,0.36,0.37,0.36
+Peru,Persistence Baseline,2017,2018,2022,3.282,3.6805,20.8,21.76,23.74
+Peru,Linear Regression,2017,2018,2022,5.0408,5.2044,32.88,33.42,39.56
+Peru,ARIMA,2017,2018,2022,0.0746,0.0896,0.47,0.49,0.47
+Peru,Holt (Damped),2017,2018,2022,0.554,0.6784,3.43,3.67,3.52
+Peru,Random Forest,2017,2018,2022,2.36,2.6474,14.95,15.65,16.41
+Poland,Persistence Baseline,2017,2018,2022,1.188,1.3277,11.63,11.94,12.51
+Poland,Linear Regression,2017,2018,2022,1.8063,1.8532,17.97,18.16,19.81
+Poland,ARIMA,2017,2018,2022,0.0788,0.0933,0.77,0.79,0.77
+Poland,Holt (Damped),2017,2018,2022,0.1798,0.2171,1.74,1.81,1.76
+Poland,Random Forest,2017,2018,2022,0.63,0.7178,6.15,6.33,6.4
+Portugal,Persistence Baseline,2017,2018,2022,0.308,0.347,4.28,4.33,4.4
+Portugal,Linear Regression,2017,2018,2022,0.0512,0.0596,0.73,0.72,0.73
+Portugal,ARIMA,2017,2018,2022,0.0729,0.0887,1.01,1.02,1.02
+Portugal,Holt (Damped),2017,2018,2022,0.0763,0.0924,1.06,1.07,1.06
+Portugal,Random Forest,2017,2018,2022,0.078,0.0833,1.09,1.1,1.09
+Puerto Rico,Persistence Baseline,2017,2018,2022,0.722,0.8059,3.3,3.32,3.36
+Puerto Rico,Linear Regression,2017,2018,2022,1.0505,1.0756,4.82,4.83,4.7
+Puerto Rico,ARIMA,2017,2018,2022,0.0415,0.058,0.19,0.19,0.19
+Puerto Rico,Holt (Damped),2017,2018,2022,0.0224,0.024,0.1,0.1,0.1
+Puerto Rico,Random Forest,2017,2018,2022,0.618,0.7192,2.82,2.84,2.76
+Qatar,Persistence Baseline,2017,2018,2022,0.434,0.4819,1.69,1.7,1.71
+Qatar,Linear Regression,2017,2018,2022,1.097,1.1523,4.29,4.3,4.19
+Qatar,ARIMA,2017,2018,2022,0.1578,0.1728,0.62,0.62,0.61
+Qatar,Holt (Damped),2017,2018,2022,0.2926,0.3195,1.14,1.15,1.13
+Qatar,Random Forest,2017,2018,2022,0.092,0.1322,0.36,0.36,0.36
+Republic of Moldova,Persistence Baseline,2017,2018,2022,0.678,0.7596,7.65,7.79,8.03
+Republic of Moldova,Linear Regression,2017,2018,2022,0.6184,0.6443,7.04,7.11,7.31
+Republic of Moldova,ARIMA,2017,2018,2022,0.073,0.0891,0.82,0.84,0.82
+Republic of Moldova,Holt (Damped),2017,2018,2022,0.1146,0.1396,1.28,1.32,1.3
+Republic of Moldova,Random Forest,2017,2018,2022,0.154,0.1624,1.75,1.77,1.77
+Romania,Persistence Baseline,2017,2018,2022,2.08,2.3287,17.06,17.72,19.01
+Romania,Linear Regression,2017,2018,2022,3.0321,3.1177,25.48,25.83,29.31
+Romania,ARIMA,2017,2018,2022,0.0786,0.0971,0.63,0.67,0.63
+Romania,Holt (Damped),2017,2018,2022,0.3009,0.3703,2.42,2.56,2.46
+Romania,Random Forest,2017,2018,2022,1.382,1.5301,11.36,11.77,12.17
+Russian Federation,Persistence Baseline,2017,2018,2022,0.512,0.5764,6.5,6.61,6.78
+Russian Federation,Linear Regression,2017,2018,2022,0.3553,0.3791,4.54,4.59,4.65
+Russian Federation,ARIMA,2017,2018,2022,0.1295,0.1548,1.64,1.67,1.66
+Russian Federation,Holt (Damped),2017,2018,2022,0.132,0.1578,1.67,1.7,1.69
+Russian Federation,Random Forest,2017,2018,2022,0.184,0.1978,2.35,2.38,2.38
+Rwanda,Persistence Baseline,2017,2018,2022,0.476,0.536,8.94,9.14,9.46
+Rwanda,Linear Regression,2017,2018,2022,0.6045,0.6382,11.45,11.61,12.21
+Rwanda,ARIMA,2017,2018,2022,0.0192,0.0261,0.35,0.37,0.36
+Rwanda,Holt (Damped),2017,2018,2022,0.0905,0.1124,1.68,1.74,1.7
+Rwanda,Random Forest,2017,2018,2022,0.356,0.4268,6.64,6.84,6.97
+Saint Kitts and Nevis,Persistence Baseline,2017,2018,2022,1.008,1.1243,5.1,5.16,5.27
+Saint Kitts and Nevis,Linear Regression,2017,2018,2022,0.1162,0.1206,0.59,0.6,0.59
+Saint Kitts and Nevis,ARIMA,2017,2018,2022,0.1057,0.137,0.53,0.54,0.53
+Saint Kitts and Nevis,Holt (Damped),2017,2018,2022,0.0591,0.081,0.3,0.3,0.3
+Saint Kitts and Nevis,Random Forest,2017,2018,2022,0.058,0.0668,0.3,0.3,0.3
+Saint Lucia,Persistence Baseline,2017,2018,2022,1.172,1.3046,6.12,6.2,6.35
+Saint Lucia,Linear Regression,2017,2018,2022,0.361,0.3665,1.9,1.91,1.92
+Saint Lucia,ARIMA,2017,2018,2022,0.0417,0.0612,0.21,0.22,0.21
+Saint Lucia,Holt (Damped),2017,2018,2022,0.0452,0.0659,0.23,0.24,0.23
+Saint Lucia,Random Forest,2017,2018,2022,0.1,0.1276,0.52,0.53,0.52
+Saint Vincent and the Grenadines,Persistence Baseline,2017,2018,2022,0.614,0.6905,4.36,4.41,4.49
+Saint Vincent and the Grenadines,Linear Regression,2017,2018,2022,0.2362,0.2372,1.7,1.7,1.68
+Saint Vincent and the Grenadines,ARIMA,2017,2018,2022,0.0898,0.1164,0.63,0.65,0.64
+Saint Vincent and the Grenadines,Holt (Damped),2017,2018,2022,0.0803,0.1051,0.57,0.58,0.57
+Saint Vincent and the Grenadines,Random Forest,2017,2018,2022,0.442,0.4973,3.14,3.18,3.08
+Sao Tome and Principe,Persistence Baseline,2017,2018,2022,1.578,1.7658,10.43,10.69,11.14
+Sao Tome and Principe,Linear Regression,2017,2018,2022,1.8549,1.9129,12.43,12.56,13.29
+Sao Tome and Principe,ARIMA,2017,2018,2022,0.0244,0.0355,0.16,0.17,0.16
+Sao Tome and Principe,Holt (Damped),2017,2018,2022,0.1844,0.2325,1.2,1.25,1.21
+Sao Tome and Principe,Random Forest,2017,2018,2022,0.602,0.6731,3.98,4.08,4.08
+Saudi Arabia,Persistence Baseline,2017,2018,2022,1.19,1.3058,5.59,5.52,5.4
+Saudi Arabia,Linear Regression,2017,2018,2022,3.9546,4.0138,18.44,18.35,16.83
+Saudi Arabia,ARIMA,2017,2018,2022,0.2371,0.328,1.13,1.1,1.14
+Saudi Arabia,Holt (Damped),2017,2018,2022,0.3328,0.3703,1.56,1.54,1.55
+Saudi Arabia,Random Forest,2017,2018,2022,2.45,2.665,11.5,11.37,10.76
+Senegal,Persistence Baseline,2017,2018,2022,0.084,0.1062,1.04,1.04,1.05
+Senegal,Linear Regression,2017,2018,2022,0.6554,0.6568,8.13,8.14,7.82
+Senegal,ARIMA,2017,2018,2022,0.0579,0.0755,0.71,0.72,0.72
+Senegal,Holt (Damped),2017,2018,2022,0.0844,0.1066,1.04,1.05,1.05
+Senegal,Random Forest,2017,2018,2022,0.482,0.5383,5.96,5.98,5.75
+Serbia,Persistence Baseline,2017,2018,2022,0.956,1.0721,9.28,9.49,9.84
+Serbia,Linear Regression,2017,2018,2022,1.1626,1.1992,11.42,11.54,12.15
+Serbia,ARIMA,2017,2018,2022,0.0478,0.0634,0.46,0.47,0.46
+Serbia,Holt (Damped),2017,2018,2022,0.1258,0.1591,1.21,1.25,1.22
+Serbia,Random Forest,2017,2018,2022,0.406,0.4645,3.93,4.03,4.03
+Seychelles,Persistence Baseline,2017,2018,2022,1.178,1.3056,8.15,7.99,7.75
+Seychelles,Linear Regression,2017,2018,2022,3.8623,3.9513,26.45,26.2,23.21
+Seychelles,ARIMA,2017,2018,2022,0.208,0.2704,1.46,1.41,1.48
+Seychelles,Holt (Damped),2017,2018,2022,0.1674,0.1928,1.16,1.14,1.15
+Seychelles,Random Forest,2017,2018,2022,2.284,2.5132,15.79,15.49,14.4
+Sierra Leone,Persistence Baseline,2017,2018,2022,0.88,0.9897,8.05,8.22,8.48
+Sierra Leone,Linear Regression,2017,2018,2022,0.8964,0.9319,8.28,8.37,8.67
+Sierra Leone,ARIMA,2017,2018,2022,0.0439,0.0601,0.4,0.41,0.4
+Sierra Leone,Holt (Damped),2017,2018,2022,0.1092,0.1435,0.99,1.02,0.99
+Sierra Leone,Random Forest,2017,2018,2022,0.074,0.0873,0.68,0.69,0.68
+Slovakia,Persistence Baseline,2017,2018,2022,0.798,0.896,9.44,9.66,10.03
+Slovakia,Linear Regression,2017,2018,2022,1.1916,1.2288,14.29,14.43,15.44
+Slovakia,ARIMA,2017,2018,2022,0.0736,0.09,0.86,0.89,0.87
+Slovakia,Holt (Damped),2017,2018,2022,0.1457,0.1782,1.71,1.76,1.73
+Slovakia,Random Forest,2017,2018,2022,0.32,0.3737,3.77,3.88,3.87
+Slovenia,Persistence Baseline,2017,2018,2022,0.954,1.0697,9.22,9.42,9.77
+Slovenia,Linear Regression,2017,2018,2022,0.3935,0.4307,3.81,3.89,3.9
+Slovenia,ARIMA,2017,2018,2022,0.098,0.1278,0.93,0.97,0.94
+Slovenia,Holt (Damped),2017,2018,2022,0.1238,0.1568,1.18,1.22,1.19
+Slovenia,Random Forest,2017,2018,2022,0.454,0.5063,4.39,4.48,4.51
+Somalia,Persistence Baseline,2017,2018,2022,0.524,0.5923,5.39,5.47,5.58
+Somalia,Linear Regression,2017,2018,2022,0.161,0.2036,1.65,1.68,1.67
+Somalia,ARIMA,2017,2018,2022,0.0123,0.0128,0.13,0.13,0.13
+Somalia,Holt (Damped),2017,2018,2022,0.089,0.1169,0.91,0.93,0.92
+Somalia,Random Forest,2017,2018,2022,0.09,0.0933,0.94,0.94,0.94
+South Africa,Persistence Baseline,2017,2018,2022,0.434,0.4749,3.09,3.07,3.04
+South Africa,Linear Regression,2017,2018,2022,2.1566,2.194,15.32,15.28,14.19
+South Africa,ARIMA,2017,2018,2022,0.0727,0.1047,0.52,0.51,0.52
+South Africa,Holt (Damped),2017,2018,2022,0.0796,0.0867,0.57,0.56,0.57
+South Africa,Random Forest,2017,2018,2022,1.55,1.728,11.06,10.98,10.35
+South Sudan,Persistence Baseline,2017,2018,2022,0.456,0.5138,5.38,5.46,5.57
+South Sudan,Linear Regression,2017,2018,2022,0.1222,0.1589,1.43,1.46,1.45
+South Sudan,ARIMA,2017,2018,2022,0.0156,0.0213,0.18,0.19,0.18
+South Sudan,Holt (Damped),2017,2018,2022,0.1185,0.1453,1.39,1.42,1.41
+South Sudan,Random Forest,2017,2018,2022,0.066,0.0674,0.79,0.79,0.78
+Spain,Persistence Baseline,2017,2018,2022,0.654,0.7126,16.95,16.37,15.36
+Spain,Linear Regression,2017,2018,2022,2.1113,2.1246,53.52,52.84,41.99
+Spain,ARIMA,2017,2018,2022,0.0168,0.0184,0.44,0.42,0.44
+Spain,Holt (Damped),2017,2018,2022,0.0616,0.0776,1.63,1.54,1.65
+Spain,Random Forest,2017,2018,2022,0.85,0.9016,21.91,21.27,19.45
+Sudan,Persistence Baseline,2017,2018,2022,0.45,0.4864,4.16,4.13,4.06
+Sudan,Linear Regression,2017,2018,2022,2.4713,2.4883,22.72,22.67,20.37
+Sudan,ARIMA,2017,2018,2022,0.0213,0.0228,0.2,0.2,0.2
+Sudan,Holt (Damped),2017,2018,2022,0.0355,0.0495,0.33,0.33,0.33
+Sudan,Random Forest,2017,2018,2022,1.108,1.2275,10.25,10.17,9.64
+Suriname,Persistence Baseline,2017,2018,2022,0.938,1.0465,4.62,4.67,4.75
+Suriname,Linear Regression,2017,2018,2022,0.2567,0.2685,1.27,1.28,1.26
+Suriname,ARIMA,2017,2018,2022,0.0659,0.094,0.32,0.33,0.32
+Suriname,Holt (Damped),2017,2018,2022,0.0286,0.0412,0.14,0.14,0.14
+Suriname,Random Forest,2017,2018,2022,0.252,0.2853,1.24,1.25,1.23
+Switzerland,Persistence Baseline,2017,2018,2022,0.176,0.1986,4.19,4.23,4.3
+Switzerland,Linear Regression,2017,2018,2022,0.1094,0.1253,2.6,2.63,2.64
+Switzerland,ARIMA,2017,2018,2022,0.0592,0.0703,1.41,1.42,1.42
+Switzerland,Holt (Damped),2017,2018,2022,0.0801,0.0955,1.9,1.93,1.93
+Switzerland,Random Forest,2017,2018,2022,0.036,0.0583,0.85,0.87,0.86
+Syrian Arab Republic,Persistence Baseline,2017,2018,2022,0.408,0.4536,1.9,1.91,1.92
+Syrian Arab Republic,Linear Regression,2017,2018,2022,0.7291,0.7664,3.4,3.41,3.33
+Syrian Arab Republic,ARIMA,2017,2018,2022,0.0461,0.0498,0.21,0.22,0.21
+Syrian Arab Republic,Holt (Damped),2017,2018,2022,0.1895,0.2047,0.88,0.89,0.88
+Syrian Arab Republic,Random Forest,2017,2018,2022,0.942,1.079,4.38,4.4,4.26
+Togo,Persistence Baseline,2017,2018,2022,0.872,0.9742,9.61,9.83,10.21
+Togo,Linear Regression,2017,2018,2022,1.1953,1.2285,13.35,13.47,14.34
+Togo,ARIMA,2017,2018,2022,0.0396,0.0496,0.43,0.45,0.43
+Togo,Holt (Damped),2017,2018,2022,0.1011,0.1251,1.1,1.14,1.11
+Togo,Random Forest,2017,2018,2022,0.33,0.3586,3.65,3.72,3.73
+Trinidad and Tobago,Persistence Baseline,2017,2018,2022,1.138,1.2684,4.13,4.17,4.24
+Trinidad and Tobago,Linear Regression,2017,2018,2022,0.9778,1.0109,3.57,3.58,3.5
+Trinidad and Tobago,ARIMA,2017,2018,2022,0.1026,0.1413,0.37,0.38,0.37
+Trinidad and Tobago,Holt (Damped),2017,2018,2022,0.026,0.0283,0.1,0.1,0.1
+Trinidad and Tobago,Random Forest,2017,2018,2022,0.514,0.5866,1.86,1.88,1.89
+Tunisia,Persistence Baseline,2017,2018,2022,0.782,0.8685,5.05,5.1,5.21
+Tunisia,Linear Regression,2017,2018,2022,0.6829,0.6864,4.45,4.46,4.55
+Tunisia,ARIMA,2017,2018,2022,0.1051,0.143,0.67,0.69,0.68
+Tunisia,Holt (Damped),2017,2018,2022,0.1372,0.1477,0.89,0.9,0.88
+Tunisia,Random Forest,2017,2018,2022,0.338,0.3958,2.18,2.21,2.14
+Uganda,Persistence Baseline,2017,2018,2022,0.302,0.3418,6.04,6.14,6.28
+Uganda,Linear Regression,2017,2018,2022,0.2523,0.2873,5.04,5.13,5.21
+Uganda,ARIMA,2017,2018,2022,0.0093,0.0098,0.19,0.19,0.19
+Uganda,Holt (Damped),2017,2018,2022,0.1192,0.1439,2.37,2.42,2.41
+Uganda,Random Forest,2017,2018,2022,0.128,0.1609,2.55,2.6,2.59
+United Arab Emirates,Persistence Baseline,2017,2018,2022,0.71,0.7782,2.69,2.68,2.65
+United Arab Emirates,Linear Regression,2017,2018,2022,3.4632,3.5397,13.09,13.05,12.25
+United Arab Emirates,ARIMA,2017,2018,2022,0.1868,0.1922,0.71,0.7,0.7
+United Arab Emirates,Holt (Damped),2017,2018,2022,0.4252,0.4674,1.61,1.6,1.6
+United Arab Emirates,Random Forest,2017,2018,2022,0.75,0.8148,2.84,2.83,2.79
+United Kingdom of Great Britain and Northern Ireland,Persistence Baseline,2017,2018,2022,0.774,0.8663,9.23,9.43,9.78
+United Kingdom of Great Britain and Northern Ireland,Linear Regression,2017,2018,2022,0.9095,0.9383,10.98,11.09,11.65
+United Kingdom of Great Britain and Northern Ireland,ARIMA,2017,2018,2022,0.0328,0.0416,0.39,0.4,0.39
+United Kingdom of Great Britain and Northern Ireland,Holt (Damped),2017,2018,2022,0.1217,0.1481,1.44,1.48,1.45
+United Kingdom of Great Britain and Northern Ireland,Random Forest,2017,2018,2022,0.288,0.3304,3.43,3.51,3.5
+United Republic of Tanzania,Persistence Baseline,2017,2018,2022,0.046,0.0484,0.69,0.69,0.69
+United Republic of Tanzania,Linear Regression,2017,2018,2022,0.8554,0.8627,12.9,12.89,12.1
+United Republic of Tanzania,ARIMA,2017,2018,2022,0.0072,0.0102,0.11,0.11,0.11
+United Republic of Tanzania,Holt (Damped),2017,2018,2022,0.0077,0.011,0.12,0.12,0.12
+United Republic of Tanzania,Random Forest,2017,2018,2022,0.442,0.4854,6.67,6.66,6.41
+United States of America,Persistence Baseline,2017,2018,2022,0.878,0.9814,7.28,7.41,7.62
+United States of America,Linear Regression,2017,2018,2022,0.88,0.9117,7.36,7.43,7.66
+United States of America,ARIMA,2017,2018,2022,0.0206,0.0276,0.17,0.17,0.17
+United States of America,Holt (Damped),2017,2018,2022,0.1071,0.1324,0.88,0.9,0.89
+United States of America,Random Forest,2017,2018,2022,0.134,0.1687,1.1,1.13,1.11
+Uruguay,Persistence Baseline,2017,2018,2022,0.84,0.9412,6.1,6.19,6.34
+Uruguay,Linear Regression,2017,2018,2022,0.4662,0.4903,3.41,3.44,3.47
+Uruguay,ARIMA,2017,2018,2022,0.074,0.0965,0.53,0.55,0.53
+Uruguay,Holt (Damped),2017,2018,2022,0.0981,0.1257,0.71,0.72,0.71
+Uruguay,Random Forest,2017,2018,2022,0.202,0.2237,1.47,1.49,1.46
+Venezuela (Bolivarian Republic of),Persistence Baseline,2017,2018,2022,0.338,0.3682,3.13,3.11,3.07
+Venezuela (Bolivarian Republic of),Linear Regression,2017,2018,2022,1.7809,1.8229,16.43,16.38,15.13
+Venezuela (Bolivarian Republic of),ARIMA,2017,2018,2022,0.1919,0.2452,1.78,1.76,1.81
+Venezuela (Bolivarian Republic of),Holt (Damped),2017,2018,2022,0.0295,0.0311,0.27,0.27,0.27
+Venezuela (Bolivarian Republic of),Random Forest,2017,2018,2022,1.056,1.1537,9.77,9.71,9.23
+Yemen,Persistence Baseline,2017,2018,2022,0.968,1.0797,5.42,5.49,5.61
+Yemen,Linear Regression,2017,2018,2022,0.936,0.9444,5.29,5.31,5.44
+Yemen,ARIMA,2017,2018,2022,0.1089,0.1121,0.62,0.62,0.61
+Yemen,Holt (Damped),2017,2018,2022,0.1588,0.1672,0.89,0.9,0.89
+Yemen,Random Forest,2017,2018,2022,0.088,0.103,0.5,0.5,0.5
+Zambia,Persistence Baseline,2017,2018,2022,1.59,1.7797,13.43,13.85,14.62
+Zambia,Linear Regression,2017,2018,2022,2.2126,2.2856,19.02,19.27,21.11
+Zambia,ARIMA,2017,2018,2022,0.0198,0.0206,0.17,0.17,0.17
+Zambia,Holt (Damped),2017,2018,2022,0.1964,0.2461,1.63,1.71,1.65
+Zambia,Random Forest,2017,2018,2022,0.834,0.9247,7.06,7.26,7.37
+Zimbabwe,Persistence Baseline,2017,2018,2022,0.186,0.218,1.65,1.66,1.66
+Zimbabwe,Linear Regression,2017,2018,2022,0.9878,0.9897,8.79,8.79,8.42
+Zimbabwe,ARIMA,2017,2018,2022,0.0272,0.0356,0.24,0.24,0.24
+Zimbabwe,Holt (Damped),2017,2018,2022,0.1069,0.1331,0.94,0.95,0.95
+Zimbabwe,Random Forest,2017,2018,2022,0.478,0.5291,4.23,4.25,4.13
+"occupied Palestinian territory, including east Jerusalem",Persistence Baseline,2017,2018,2022,0.174,0.1943,0.88,0.88,0.87
+"occupied Palestinian territory, including east Jerusalem",Linear Regression,2017,2018,2022,1.9196,1.9878,9.69,9.68,9.21
+"occupied Palestinian territory, including east Jerusalem",ARIMA,2017,2018,2022,0.0687,0.076,0.35,0.35,0.35
+"occupied Palestinian territory, including east Jerusalem",Holt (Damped),2017,2018,2022,0.285,0.316,1.44,1.44,1.43
+"occupied Palestinian territory, including east Jerusalem",Random Forest,2017,2018,2022,1.596,1.7514,8.06,8.05,7.69

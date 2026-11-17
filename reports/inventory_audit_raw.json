@@ -1,0 +1,345 @@
+{
+  "who": {
+    "path": "data\\raw\\who_diabetes\\data.csv",
+    "size_bytes": 8036308,
+    "raw_shape": [
+      30000,
+      34
+    ],
+    "columns": [
+      "IndicatorCode",
+      "Indicator",
+      "ValueType",
+      "ParentLocationCode",
+      "ParentLocation",
+      "Location type",
+      "SpatialDimValueCode",
+      "Location",
+      "Period type",
+      "Period",
+      "IsLatestYear",
+      "Dim1 type",
+      "Dim1",
+      "Dim1ValueCode",
+      "Dim2 type",
+      "Dim2",
+      "Dim2ValueCode",
+      "Dim3 type",
+      "Dim3",
+      "Dim3ValueCode",
+      "DataSourceDimValueCode",
+      "DataSource",
+      "FactValueNumericPrefix",
+      "FactValueNumeric",
+      "FactValueUoM",
+      "FactValueNumericLowPrefix",
+      "FactValueNumericLow",
+      "FactValueNumericHighPrefix",
+      "FactValueNumericHigh",
+      "Value",
+      "FactValueTranslationID",
+      "FactComments",
+      "Language",
+      "DateModified"
+    ],
+    "indicators": [
+      "NCD_DIABETES_PREVALENCE_AGESTD"
+    ],
+    "sex_codes": [
+      "SEX_BTSX",
+      "SEX_MLE",
+      "SEX_FMLE"
+    ],
+    "age_codes": [
+      "AGEGROUP_YEARS30-PLUS",
+      "AGEGROUP_YEARS18-PLUS"
+    ],
+    "filtered_shape": [
+      5000,
+      34
+    ],
+    "unique_locations": 152,
+    "year_min": 1990,
+    "year_max": 2022,
+    "locations_33_years": 151,
+    "locations_other_years": {
+      "Slovenia": 17
+    },
+    "bounds_valid": true,
+    "range_valid_0_100": true,
+    "duplicate_location_years": 0,
+    "null_counts": {
+      "Location": 0,
+      "Period": 0,
+      "FactValueNumeric": 0,
+      "FactValueNumericLow": 0,
+      "FactValueNumericHigh": 0
+    },
+    "prevalence_min": 2.33,
+    "prevalence_max": 30.89,
+    "prevalence_mean": 9.966914,
+    "prevalence_median": 8.33,
+    "prevalence_std": 5.1511150029638
+  },
+  "gbd": {
+    "S10_Global_DALY_Counts_and_Age_Standardised_Rate_Changes.XLSX": {
+      "size_bytes": 78498,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        379,
+        21
+      ],
+      "columns": [
+        "Supplementary Table 10. Percentage change between 2010 and 2023 in count and age-standardised rate of DALYs by cause, global, both sexes",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20"
+      ],
+      "has_diabetes": true,
+      "diabetes_matches": [
+        "Diabetes and kidney diseases",
+        "Chronic kidney disease due to diabetes mellitus type 2",
+        "Chronic kidney disease due to diabetes mellitus type 1",
+        "Diabetes mellitus type 1",
+        "Diabetes mellitus type 2"
+      ]
+    },
+    "S12_Locations_by_SDI_Group.XLSX": {
+      "size_bytes": 23144,
+      "sheets": [
+        "Sheet1"
+      ],
+      "shape": [
+        850,
+        1
+      ],
+      "columns": [
+        "Table S12. GBD 2023 Socio-Demographic Index groupings by location"
+      ],
+      "has_diabetes": false,
+      "diabetes_matches": []
+    },
+    "S13A_Global_Risk_Factor_DALYs_and_PAFs.XLSX": {
+      "size_bytes": 217145,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        846,
+        34
+      ],
+      "columns": [
+        "Supplementary Table 13. Global all-age DALYs, DALYs PAFs, age-standardised DALY rate (per 100\u00b7000), and percentage change for each risk factor and outcome for both sexes combined in 1990, 2010, and 2023.",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20",
+        "Unnamed: 21",
+        "Unnamed: 22",
+        "Unnamed: 23",
+        "Unnamed: 24"
+      ],
+      "has_diabetes": true,
+      "diabetes_matches": [
+        "    Diabetes mellitus type 2",
+        "    Diabetes mellitus type 1",
+        "    Chronic kidney disease due to diabetes mellitus type 1",
+        "    Chronic kidney disease due to diabetes mellitus type 2"
+      ]
+    },
+    "S1_Geographic_Hierarchy.XLSX": {
+      "size_bytes": 13526,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        239,
+        2
+      ],
+      "columns": [
+        "Table S1. GBD 2023 location hierarchy with levels",
+        "Unnamed: 1"
+      ],
+      "has_diabetes": false,
+      "diabetes_matches": []
+    },
+    "S1_Global_Age_Standardised_Prevalence_Rates.XLSX": {
+      "size_bytes": 132960,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        384,
+        38
+      ],
+      "columns": [
+        "Supplementary Table 1. Global age-standardised prevalence rate per 100\u00b7 000 people, both sexes, males, and females, in 1990, 2010, 2020, 2023",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20",
+        "Unnamed: 21",
+        "Unnamed: 22",
+        "Unnamed: 23",
+        "Unnamed: 24"
+      ],
+      "has_diabetes": true,
+      "diabetes_matches": [
+        "Diabetes and kidney diseases",
+        "Chronic kidney disease due to diabetes mellitus type 2",
+        "Chronic kidney disease due to diabetes mellitus type 1",
+        "Diabetes mellitus type 1",
+        "Diabetes mellitus type 2"
+      ]
+    },
+    "S3_Global_All_Age_DALY_Counts.XLSX": {
+      "size_bytes": 113997,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        384,
+        38
+      ],
+      "columns": [
+        "Supplementary Table 3. Global all-age DALY counts by cause both sexes, males, and females, for 2010, 2020, and 2023",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20",
+        "Unnamed: 21",
+        "Unnamed: 22",
+        "Unnamed: 23",
+        "Unnamed: 24"
+      ],
+      "has_diabetes": true,
+      "diabetes_matches": [
+        "Diabetes and kidney diseases",
+        "Chronic kidney disease due to diabetes mellitus type 2",
+        "Chronic kidney disease due to diabetes mellitus type 1",
+        "Diabetes mellitus type 1",
+        "Diabetes mellitus type 2"
+      ]
+    },
+    "S9_Healthy_Life_Expectancy_By_Location_and_Sex.XLSX": {
+      "size_bytes": 194212,
+      "sheets": [
+        "sheet1"
+      ],
+      "shape": [
+        714,
+        46
+      ],
+      "columns": [
+        "Supplementary Table 9. Healthy life expectancy by location and sex in 1990, 2010, 2020, and 2023",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "Unnamed: 10",
+        "Unnamed: 11",
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14",
+        "Unnamed: 15",
+        "Unnamed: 16",
+        "Unnamed: 17",
+        "Unnamed: 18",
+        "Unnamed: 19",
+        "Unnamed: 20",
+        "Unnamed: 21",
+        "Unnamed: 22",
+        "Unnamed: 23",
+        "Unnamed: 24"
+      ],
+      "has_diabetes": false,
+      "diabetes_matches": []
+    }
+  },
+  "papers": {
+    "Beyond the 1.5\u00b0C planetary boundary AI-forecast of Global Disease Burden and Health inequities.pdf": {
+      "size_bytes": 1115704
+    },
+    "Burden of disease scenarios for 204 countries and territories, 2022\u20132050 a forecasting analysis for the Global Burden of Disease Study 2021.pdf": {
+      "size_bytes": 6738185
+    },
+    "Depressive disorders burden attributable to childhood sexual abuse in China and India from 1990 to 2023 and prediction for 2040 Analysis of data from the Global Burden of Disease Study 2023.pdf": {
+      "size_bytes": 1563325
+    },
+    "Enhancing AI-driven forecasting of diabetes burden a comparative analysis of deep learning and statistical models.pdf": {
+      "size_bytes": 3693257
+    }
+  }
+}

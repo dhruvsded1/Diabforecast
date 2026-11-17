@@ -1,0 +1,153 @@
+location,location_code,region,prevalence_pct,prevalence_low_pct,prevalence_high_pct,rank_highest
+Pakistan,PAK,Eastern Mediterranean,30.89,23.71,38.58,1
+Trinidad and Tobago,TTO,Americas,28.08,16.77,41.11,2
+Libya,LBY,Eastern Mediterranean,28.0,23.39,32.81,3
+Egypt,EGY,Eastern Mediterranean,27.78,20.63,35.37,4
+Kuwait,KWT,Eastern Mediterranean,26.77,19.32,34.83,5
+United Arab Emirates,ARE,Eastern Mediterranean,26.09,19.43,33.28,6
+Qatar,QAT,Eastern Mediterranean,25.84,16.82,36.7,7
+Iraq,IRQ,Eastern Mediterranean,25.47,17.79,34.44,8
+Afghanistan,AFG,Eastern Mediterranean,25.31,18.06,33.74,9
+Jamaica,JAM,Americas,24.5,17.66,32.12,10
+Mauritius,MUS,Africa,24.44,17.94,31.77,11
+Haiti,HTI,Americas,23.67,14.79,33.87,12
+Oman,OMN,Eastern Mediterranean,23.37,16.65,30.89,13
+Costa Rica,CRI,Americas,23.18,17.02,29.91,14
+Dominica,DMA,Americas,22.73,12.64,35.02,15
+Barbados,BRB,Americas,22.37,13.89,32.79,16
+Puerto Rico,PRI,Americas,22.25,11.88,35.06,17
+Guyana,GUY,Americas,22.14,14.81,30.66,18
+Syrian Arab Republic,SYR,Eastern Mediterranean,21.7,12.48,33.36,19
+Bahrain,BHR,Eastern Mediterranean,21.39,12.65,31.98,20
+Saudi Arabia,SAU,Eastern Mediterranean,20.81,12.17,31.07,21
+Suriname,SUR,Americas,20.76,12.87,30.07,22
+Antigua and Barbuda,ATG,Americas,20.36,10.32,33.17,23
+Bermuda,BMU,Americas,20.34,10.26,33.64,24
+Saint Kitts and Nevis,KNA,Americas,20.25,10.06,33.27,25
+Grenada,GRD,Americas,20.21,9.99,33.96,26
+Saint Lucia,LCA,Americas,19.72,14.76,25.19,27
+"occupied Palestinian territory, including east Jerusalem",PSE,Eastern Mediterranean,19.72,15.95,23.77,28
+Lebanon,LBN,Eastern Mediterranean,19.4,15.89,23.2,29
+Guatemala,GTM,Americas,19.33,13.97,25.42,30
+Belize,BLZ,Americas,18.98,9.8,30.76,31
+Central African Republic,CAF,Africa,18.93,9.31,31.84,32
+Bahamas,BHS,Americas,18.86,13.56,25.06,33
+Morocco,MAR,Eastern Mediterranean,18.75,12.91,25.56,34
+Algeria,DZA,Africa,18.66,12.8,25.41,35
+Jordan,JOR,Eastern Mediterranean,18.41,14.42,22.73,36
+Angola,AGO,Africa,18.36,9.37,29.56,37
+Yemen,YEM,Eastern Mediterranean,18.32,10.01,28.91,38
+Cameroon,CMR,Africa,17.65,10.99,25.54,39
+Dominican Republic,DOM,Americas,17.52,9.81,27.64,40
+Peru,PER,Americas,17.51,11.93,24.18,41
+Bolivia (Plurinational State of),BOL,Americas,17.28,7.88,29.74,42
+Sao Tome and Principe,STP,Africa,15.92,10.77,21.75,43
+Tunisia,TUN,Eastern Mediterranean,15.87,9.78,23.38,44
+Iran (Islamic Republic of),IRN,Eastern Mediterranean,14.71,12.57,17.1,45
+Nicaragua,NIC,Americas,14.38,6.67,24.73,46
+Saint Vincent and the Grenadines,VCT,Americas,14.38,8.45,21.8,47
+Paraguay,PRY,Americas,14.34,6.3,26.18,48
+Mexico,MEX,Americas,14.27,12.36,16.36,49
+Uruguay,URY,Americas,14.18,7.92,22.11,50
+Chile,CHL,Americas,13.98,8.95,20.32,51
+Seychelles,SYC,Africa,13.95,10.96,17.37,52
+South Africa,ZAF,Africa,13.86,8.6,20.16,53
+Azerbaijan,AZE,Europe,13.56,8.61,19.66,54
+Gabon,GAB,Africa,13.49,5.4,25.34,55
+Equatorial Guinea,GNQ,Africa,13.35,5.28,25.27,56
+Honduras,HND,Americas,13.31,5.93,23.48,57
+Gambia,GMB,Africa,13.29,7.18,21.56,58
+Romania,ROU,Europe,13.26,10.0,17.02,59
+Bosnia and Herzegovina,BIH,Europe,13.21,7.37,20.96,60
+Brazil,BRA,Americas,12.93,8.21,19.04,61
+Congo,COG,Africa,12.89,6.95,20.57,62
+El Salvador,SLV,Americas,12.84,7.6,19.47,63
+Ecuador,ECU,Americas,12.66,8.18,17.94,64
+Zambia,ZMB,Africa,12.64,7.88,18.92,65
+United States of America,USA,Americas,12.48,9.53,16.03,66
+Colombia,COL,Americas,12.28,7.49,18.3,67
+Burkina Faso,BFA,Africa,12.27,8.53,16.74,68
+Benin,BEN,Africa,12.11,6.75,19.37,69
+Kyrgyzstan,KGZ,Europe,12.0,6.27,19.69,70
+Eswatini,SWZ,Africa,12.0,6.3,19.69,71
+Cuba,CUB,Americas,11.77,8.07,16.16,72
+Armenia,ARM,Europe,11.73,7.01,17.93,73
+Mauritania,MRT,Africa,11.61,5.06,21.24,74
+Zimbabwe,ZWE,Africa,11.41,4.89,21.14,75
+Sierra Leone,SLE,Africa,11.37,4.72,21.3,76
+Guinea-Bissau,GNB,Africa,11.35,4.72,21.57,77
+Cote d'Ivoire,CIV,Africa,11.29,4.53,21.4,78
+Chad,TCD,Africa,11.28,4.82,20.91,79
+Lithuania,LTU,Europe,11.24,4.9,20.53,80
+Hungary,HUN,Europe,11.24,5.41,19.55,81
+North Macedonia,MKD,Europe,10.93,4.79,19.8,82
+Nigeria,NGA,Africa,10.92,5.09,19.48,83
+Namibia,NAM,Africa,10.85,5.08,19.14,84
+Slovenia,SVN,Europe,10.83,4.7,19.5,85
+Poland,POL,Europe,10.81,7.24,15.29,86
+Albania,ALB,Europe,10.79,4.75,19.42,87
+Serbia,SRB,Europe,10.78,4.88,19.64,88
+Bulgaria,BGR,Europe,10.75,4.66,19.49,89
+Montenegro,MNE,Europe,10.72,4.65,19.46,90
+Venezuela (Bolivarian Republic of),VEN,Americas,10.68,7.44,14.61,91
+Sudan,SDN,Eastern Mediterranean,10.66,6.3,16.34,92
+Argentina,ARG,Americas,10.58,6.9,15.07,93
+Ghana,GHA,Africa,10.39,7.41,14.01,94
+Guinea,GIN,Africa,10.31,4.68,18.61,95
+Kazakhstan,KAZ,Europe,10.2,8.15,12.45,96
+Somalia,SOM,Eastern Mediterranean,9.98,4.84,17.01,97
+Malta,MLT,Europe,9.59,5.87,14.63,98
+Togo,TGO,Africa,9.5,6.7,12.8,99
+Liberia,LBR,Africa,9.38,6.61,12.63,100
+Georgia,GEO,Europe,9.35,5.43,14.5,101
+Democratic Republic of the Congo,COD,Africa,9.33,4.88,15.43,102
+Latvia,LVA,Europe,9.3,4.22,16.59,103
+Republic of Moldova,MDA,Europe,9.2,6.72,12.11,104
+Croatia,HRV,Europe,9.1,6.44,12.21,105
+Botswana,BWA,Africa,8.97,4.38,15.57,106
+Slovakia,SVK,Europe,8.85,4.74,14.32,107
+Estonia,EST,Europe,8.78,3.73,16.89,108
+United Kingdom of Great Britain and Northern Ireland,GBR,Europe,8.77,6.97,10.84,109
+Burundi,BDI,Africa,8.76,3.37,17.45,110
+South Sudan,SSD,Africa,8.71,3.29,17.47,111
+Djibouti,DJI,Eastern Mediterranean,8.71,3.34,16.97,112
+Madagascar,MDG,Africa,8.71,3.28,16.88,113
+Panama,PAN,Americas,8.66,5.92,11.97,114
+Eritrea,ERI,Africa,8.58,3.7,15.65,115
+Cabo Verde,CPV,Africa,8.56,5.68,11.98,116
+Mali,MLI,Africa,8.43,3.81,15.63,117
+Senegal,SEN,Africa,8.16,4.44,13.09,118
+Russian Federation,RUS,Europe,8.13,5.33,11.7,119
+Israel,ISR,Europe,7.94,3.7,14.08,120
+Ireland,IRL,Europe,7.82,3.55,14.49,121
+Lesotho,LSO,Africa,7.76,3.43,14.27,122
+Czechia,CZE,Europe,7.72,5.52,10.26,123
+Belarus,BLR,Europe,7.72,5.59,10.35,124
+Mozambique,MOZ,Africa,7.65,3.84,13.1,125
+Finland,FIN,Europe,7.37,5.5,9.53,126
+Portugal,PRT,Europe,7.35,4.28,11.5,127
+Andorra,AND,Europe,7.28,2.92,14.03,128
+Cyprus,CYP,Europe,7.27,2.93,13.96,129
+Greece,GRC,Europe,7.24,4.42,10.92,130
+Italy,ITA,Europe,7.2,4.94,9.88,131
+Canada,CAN,Americas,6.83,4.88,9.21,132
+Ethiopia,ETH,Africa,6.79,3.45,11.57,133
+Belgium,BEL,Europe,6.73,4.24,10.03,134
+United Republic of Tanzania,TZA,Africa,6.62,4.38,9.44,135
+Germany,DEU,Europe,6.59,4.11,9.57,136
+Netherlands (Kingdom of the),NLD,Europe,6.36,3.12,10.95,137
+Greenland,GRL,Europe,6.35,3.97,9.4,138
+Niger,NER,Africa,6.23,3.98,9.01,139
+Comoros,COM,Africa,6.19,2.6,11.83,140
+Luxembourg,LUX,Europe,5.91,3.34,9.47,141
+Norway,NOR,Europe,5.62,2.99,9.42,142
+Kenya,KEN,Africa,5.6,2.7,9.97,143
+Rwanda,RWA,Africa,5.57,3.55,8.08,144
+Iceland,ISL,Europe,5.39,2.24,10.33,145
+Malawi,MWI,Africa,5.25,2.83,8.52,146
+Austria,AUT,Europe,5.18,2.31,9.53,147
+Uganda,UGA,Africa,5.16,3.45,7.29,148
+Switzerland,CHE,Europe,4.29,2.95,5.99,149
+Spain,ESP,Europe,3.61,2.37,5.17,150
+France,FRA,Europe,2.69,2.0,3.54,151
+Denmark,DNK,Europe,2.33,1.68,3.09,152

@@ -1,0 +1,1 @@
+Keep optional GBD 2023 reference workbooks here. Do not merge them into the WHO prevalence training table by default: their measures, geography, sex/age scope, and year grids differ. See reports/dataset_roles.md.

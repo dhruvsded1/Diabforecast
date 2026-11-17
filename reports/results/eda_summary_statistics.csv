@@ -1,0 +1,16 @@
+metric,value
+Total Observations,"5,000"
+Unique Countries,152
+Years Covered,1990–2022 (33 years)
+Overall Min Prevalence,"2.33% (Denmark, 1990)"
+Overall Max Prevalence,"30.89% (Pakistan, 2022)"
+Overall Unweighted Mean,9.9669%
+Overall Median,8.33%
+Overall Standard Deviation,5.1511%
+Overall IQR (Q1 - Q3),6.25% – 12.31%
+Overall Skewness,1.2333 (Positive right-skew)
+Overall Kurtosis,1.0250
+2022 Unweighted Mean,13.1061%
+2022 Median,11.36%
+2022 Min - Max,2.33% – 30.89%
+2022 Skewness,0.7673

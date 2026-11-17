@@ -1,0 +1,57 @@
+{
+  "source_raw": {
+    "path": "C:\\Users\\ASUS\\OneDrive\\Desktop\\ds porejct\\diabforecast\\data\\raw\\who_diabetes\\data.csv",
+    "rows": 30000,
+    "columns": 34
+  },
+  "filtered_clean": {
+    "total_rows": 5000,
+    "total_columns": 16,
+    "unique_locations": 152,
+    "year_range": [
+      1990,
+      2022
+    ],
+    "locations_with_full_series": 151,
+    "irregular_locations": {
+      "Slovenia": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "null_counts": {
+      "location": 0,
+      "year": 0,
+      "prevalence_pct": 0,
+      "prevalence_low_pct": 0,
+      "prevalence_high_pct": 0
+    },
+    "duplicate_count": 0,
+    "bounds_valid": true,
+    "range_valid": true,
+    "prevalence_stats": {
+      "min": 2.33,
+      "max": 30.89,
+      "mean_unweighted": 9.966914,
+      "median": 8.33,
+      "std": 5.1511150029638,
+      "q25": 6.25,
+      "q75": 12.3125
+    }
+  },
+  "validation_status": "PASSED_ALL_CHECKS"
+}

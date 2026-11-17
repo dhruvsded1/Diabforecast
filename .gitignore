@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large temporary files and caches
+*.log
+.DS_Store
+
+# Streamlit config
+.streamlit/secrets.toml
